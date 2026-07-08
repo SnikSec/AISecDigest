@@ -55,25 +55,45 @@ jobs:
         id: date
         run: echo "value=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
 
-      # Sends via an existing Gmail account (no new third-party service).
-      # Requires three repo secrets:
-      #   EMAIL_USERNAME - the Gmail address sending the digest
-      #   EMAIL_PASSWORD - a Gmail App Password (not the account password;
-      #                    needs 2-Step Verification on, generated at
-      #                    myaccount.google.com/apppasswords)
-      #   DIGEST_TO      - recipient address (can be the same Gmail address)
-      - name: Email digest via Gmail SMTP
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          username: ${{ secrets.EMAIL_USERNAME }}
-          password: ${{ secrets.EMAIL_PASSWORD }}
-          subject: "AI Security Digest — ${{ steps.date.outputs.value }}"
-          to: ${{ secrets.DIGEST_TO }}
-          from: "AI Security Digest <${{ secrets.EMAIL_USERNAME }}>"
-          body: file://digest/${{ steps.date.outputs.value }}.md
-          convert_markdown: true
+      # Resend's shared sandbox sender (onboarding@resend.dev) needs no
+      # domain verification, but only delivers to the address the Resend
+      # account itself was signed up with - which is exactly DIGEST_TO
+      # here, since this digest is only ever sent to its own owner.
+      # Requires two repo secrets:
+      #   RESEND_API_KEY - from the Resend dashboard
+      #   DIGEST_TO      - the email address you signed up to Resend with
+      - name: Email digest via Resend
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          DIGEST_DATE: ${{ steps.date.outputs.value }}
+        run: |
+          pip install markdown
+          python - <<'PY'
+          import os
+          import pathlib
+          import markdown
+          import requests
+
+          date_str = os.environ["DIGEST_DATE"]
+          digest_path = pathlib.Path("digest") / f"{date_str}.md"
+          md_text = digest_path.read_text(encoding="utf-8")
+          html_body = markdown.markdown(md_text)
+
+          resp = requests.post(
+              "https://api.resend.com/emails",
+              headers={"Authorization": f"Bearer {os.environ['RESEND_API_KEY']}"},
+              json={
+                  "from": "AI Security Digest <onboarding@resend.dev>",
+                  "to": [os.environ["DIGEST_TO"]],
+                  "subject": f"AI Security Digest — {date_str}",
+                  "html": html_body,
+                  "text": md_text,
+              },
+              timeout=20,
+          )
+          resp.raise_for_status()
+          PY
 
       - name: Commit seen-store + digest back to repo
         run: |
