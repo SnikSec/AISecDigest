@@ -51,42 +51,29 @@ jobs:
           path: digest/*.md
           retention-days: 30
 
-      # TODO(email step): drafted below but intentionally left commented out
-      # until the digest content/quality is confirmed - uncomment once
-      # approved. Provider: Resend (HTTP API, no SMTP creds to manage).
-      # Needs a RESEND_API_KEY repo secret and, for anything beyond their
-      # shared dev sending domain, a verified sending domain in Resend.
-      #
-      # - name: Email digest via Resend
-      #   env:
-      #     RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-      #     DIGEST_FROM: "AI Security Digest <digest@yourdomain.com>"
-      #     DIGEST_TO: "you@example.com"
-      #   run: |
-      #     python - <<'PY'
-      #     import json, os, pathlib, subprocess, markdown, requests, glob
-      #
-      #     date_str = subprocess.check_output(
-      #         ["date", "-u", "+%Y-%m-%d"], text=True
-      #     ).strip()
-      #     digest_path = pathlib.Path("digest") / f"{date_str}.md"
-      #     md_text = digest_path.read_text(encoding="utf-8")
-      #     html_body = markdown.markdown(md_text)
-      #
-      #     resp = requests.post(
-      #         "https://api.resend.com/emails",
-      #         headers={"Authorization": f"Bearer {os.environ['RESEND_API_KEY']}"},
-      #         json={
-      #             "from": os.environ["DIGEST_FROM"],
-      #             "to": [os.environ["DIGEST_TO"]],
-      #             "subject": f"AI Security Digest — {date_str}",
-      #             "html": html_body,
-      #             "text": md_text,
-      #         },
-      #         timeout=20,
-      #     )
-      #     resp.raise_for_status()
-      #     PY
+      - name: Get digest date
+        id: date
+        run: echo "value=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      # Sends via an existing Gmail account (no new third-party service).
+      # Requires three repo secrets:
+      #   EMAIL_USERNAME - the Gmail address sending the digest
+      #   EMAIL_PASSWORD - a Gmail App Password (not the account password;
+      #                    needs 2-Step Verification on, generated at
+      #                    myaccount.google.com/apppasswords)
+      #   DIGEST_TO      - recipient address (can be the same Gmail address)
+      - name: Email digest via Gmail SMTP
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "AI Security Digest — ${{ steps.date.outputs.value }}"
+          to: ${{ secrets.DIGEST_TO }}
+          from: "AI Security Digest <${{ secrets.EMAIL_USERNAME }}>"
+          body: file://digest/${{ steps.date.outputs.value }}.md
+          convert_markdown: true
 
       - name: Commit seen-store + digest back to repo
         run: |
