@@ -1,0 +1,11 @@
+# Intermediate pipeline outputs - regenerated every run, not worth tracking.
+data/raw_items.json
+data/filtered_items.json
+data/summarized_items.json
+
+# seen.json IS tracked - it's the cross-run dedupe state (see filter_rank.py)
+# and needs to persist in the repo since GitHub Actions runners are ephemeral.
+
+__pycache__/
+*.pyc
+.venv/

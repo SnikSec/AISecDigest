@@ -1,0 +1,270 @@
+# Feed sources for the AI-security daily digest.
+#
+# Every feed_url below was hit directly (curl) and confirmed to return a
+# parseable RSS/Atom body before being added here. Notes record anything
+# non-obvious discovered during that check.
+#
+# tier: rough source-authority weight used by filter_rank.py's scorer.
+#   1 = primary research / vendor threat intel, 2 = aggregator / community,
+#   3 = broad-topic feed that needs the keyword gate to do real work.
+
+buckets:
+  ai_security:
+    - name: "The Hacker News"
+      feed_url: "https://feeds.feedburner.com/TheHackersNews"
+      tier: 2
+      notes: >
+        No dedicated AI-tag feed exists on THN; this is the full firehose.
+        Relies on filter_rank.py's keyword gate for this bucket.
+
+    - name: "Google Security Blog"
+      feed_url: "https://security.googleblog.com/feeds/posts/default"
+      tier: 1
+      notes: "302s to feedburner; feedparser follows redirects fine."
+
+    - name: "MITRE ATLAS (atlas-data releases)"
+      feed_url: "https://github.com/mitre-atlas/atlas-data/releases.atom"
+      tier: 1
+      notes: >
+        atlas.mitre.org has no native RSS/Atom endpoint (checked /rss.xml,
+        /feed, /atom.xml — all 404). Using the GitHub releases Atom feed for
+        the atlas-data repo as a proxy for technique/case-study updates.
+
+    - name: "arXiv cs.CR"
+      feed_url: "http://export.arxiv.org/rss/cs.CR"
+      tier: 1
+      require_both_axes: true
+      notes: >
+        cs.CR is the security category, so every entry is security-relevant
+        by construction; require_both_axes still applies so a paper also
+        needs an AI/LLM term to qualify for an *AI*-security digest, not
+        general crypto/systems-security research.
+
+    - name: "arXiv cs.AI"
+      feed_url: "http://export.arxiv.org/rss/cs.AI"
+      tier: 1
+      require_both_axes: true
+      notes: >
+        cs.AI is a firehose (~280 papers/day) and almost every abstract
+        mentions "AI"/"LLM"/"agentic" trivially, so the single-axis gate
+        passed ~85% of the feed as noise (296/348 in one sample run,
+        vs. 40 that also matched a real security term). require_both_axes
+        forces a genuine security-term match too.
+
+    - name: "CrowdStrike Blog"
+      feed_url: "https://www.crowdstrike.com/blog/feed/"
+      tier: 1
+
+    - name: "SentinelOne Labs"
+      feed_url: "https://www.sentinelone.com/labs/feed/"
+      tier: 1
+      notes: "Confirmed distinct from the general SentinelOne blog feed."
+
+    - name: "SANS ISC"
+      feed_url: "https://isc.sans.edu/rssfeed.xml"
+      tier: 1
+
+    - name: "HN (AI/security, high-signal)"
+      feed_url: "https://hnrss.org/newest?q=AI+security&points=100"
+      tier: 3
+      notes: "Point threshold keeps this to front-page-caliber stories."
+
+  ai_identity:
+    - name: "Semperis Blog"
+      type: wp_rest_api
+      api_url: "https://www.semperis.com/wp-json/wp/v2/posts"
+      tier: 2
+      notes: >
+        Both https://www.semperis.com/feed/ and /blog/feed/ redirect to HTML
+        (X-Redirect-By: "Yoast SEO: We disable post comment feeds for
+        performance reasons.") — RSS is disabled site-wide, confirmed by
+        fetching the redirect target and getting a full HTML page back, not
+        XML. wp-json/wp/v2/posts is live and returns real post data; author
+        display name comes back via each post's yoast_head_json.author
+        (the wp-json .../users endpoint itself is blocked, so this is the
+        only way to get author names). Multi-author blog; also the source
+        used for Sarah Cecchetti's posts (see named_authors) but kept here
+        too since non-named-author posts on non-human identity should still
+        pass the ai_identity keyword gate.
+
+    - name: "HN (identity/NHI, high-signal)"
+      feed_url: "https://hnrss.org/newest?q=non-human+identity+OR+workload+identity&points=50"
+      tier: 3
+
+  offsec_ai_workloads:
+    - name: "TrustedSec Blog"
+      feed_url: "https://www.trustedsec.com/feed/"
+      tier: 1
+
+    - name: "Project Discovery Blog"
+      feed_url: "https://projectdiscovery.io/rss.xml"
+      tier: 1
+
+    - name: "HN (agentic/LLM offsec, high-signal)"
+      feed_url: "https://hnrss.org/newest?q=agentic+AI+OR+LLM+red+team&points=50"
+      tier: 3
+
+# Always-include authors: items from these feeds bypass the per-bucket
+# keyword gate in filter_rank.py entirely (still subject to dedupe/recency).
+# `match` is an optional byline/author substring check for multi-author
+# feeds so we only bypass-include *their* posts, not the whole blog.
+named_authors:
+  - name: "Sarah Cecchetti"
+    type: wp_rest_api
+    api_url: "https://www.semperis.com/wp-json/wp/v2/posts"
+    match: "Cecchetti"
+    default_bucket: ai_identity
+    notes: >
+      Semperis blog via wp-json (RSS is disabled site-wide, see the bucket
+      entry above). match is checked against each post's
+      yoast_head_json.author field, since wp-json's byline field is just a
+      numeric user ID and the .../users endpoint is blocked.
+
+  - name: "Clawdrey Hepburn"
+    feed_url: "https://clawdrey.com/feed.xml"
+    match: null
+    default_bucket: ai_identity
+    notes: >
+      Guessed paths (/feed, /rss.xml, /feed/, /rss/) all 404'd; the real
+      endpoint was found via <link rel="alternate" type="application/rss+xml">
+      on the homepage: /feed.xml. Single-author feed, no match filter needed.
+
+    site: "https://clawdrey.com"
+
+  - name: "Jess Szmajda"
+    feed_url: "https://loki.ws/atom.xml"
+    match: null
+    default_bucket: offsec_ai_workloads
+    notes: >
+      szmajda.com serves a TLS cert whose SAN only covers loki.ws
+      (confirmed via `openssl s_client -connect szmajda.com:443
+      -servername szmajda.com`: subject=CN=loki.ws, no szmajda.com SAN) —
+      i.e. a real server misconfiguration, not a client-side quirk. Do not
+      add https://szmajda.com as a feed source until that's fixed on their
+      end. loki.ws/atom.xml ("Mens Sana" by Jessica Szmajda) is confirmed
+      valid and is also linked from szmajda.com's own <link rel="alternate">
+      tag, so it's the right feed regardless of the cert issue.
+    site: "https://loki.ws"
+
+# GitHub Security Advisories API, filtered to ecosystems where ML/LLM
+# tooling actually ships (pip/npm cover the vast majority: transformers,
+# langchain, mlflow, onnx, etc.). Package-level ML/LLM relevance is decided
+# in ingest.py via ml_package_keywords below, since the API has no
+# "is this an AI package" filter.
+github_advisories:
+  ecosystems: ["pip", "npm"]
+  ml_package_keywords:
+    - torch
+    - tensorflow
+    - keras
+    - onnx
+    - transformers
+    - huggingface
+    - langchain
+    - llama
+    - llama-index
+    - llamaindex
+    - openai
+    - anthropic
+    - mlflow
+    - ray
+    - vllm
+    - ollama
+    - mcp
+    - "model-context-protocol"
+    - gradio
+    - streamlit
+    - numpy
+    - scikit-learn
+    - spacy
+    - datasets
+    - accelerate
+    - peft
+    - triton
+    - jax
+
+# Per-bucket keyword gate used by filter_rank.py. An item passes the gate if
+# its title+summary contains at least one keyword from its bucket's list
+# (named_authors items bypass this entirely).
+#
+# ai_security is split into ai_terms/security_terms rather than one flat
+# list: for normal security-vendor sources (THN, CrowdStrike, ...) everything
+# is already security content, so matching either list is enough to confirm
+# AI-relevance. For sources flagged require_both_axes: true (the arXiv
+# feeds - see above), a story must match *both* an ai_term and a
+# security_term, since those feeds aren't pre-filtered for security content
+# and "AI"/"agentic" alone matches almost every abstract in cs.AI.
+keyword_gate:
+  ai_security:
+    ai_terms:
+      - "AI"
+      - "LLM"
+      - "large language model"
+      - "AI agent"
+      - "agentic"
+      - "machine learning"
+      - "MCP"
+      - "model context protocol"
+    security_terms:
+      - "prompt injection"
+      - "jailbreak"
+      - "model poisoning"
+      - "data poisoning"
+      - "adversarial"
+      - "backdoor"
+      - "supply chain"
+      - "vulnerability"
+      - "exploit"
+      - "CVE"
+      - "malware"
+      - "red team"
+      - "zero-day"
+      - "0-day"
+      - "privacy leak"
+      - "membership inference"
+      - "threat"
+      - "attack"
+      - "malicious"
+      - "MCP"
+      - "model context protocol"
+
+  ai_identity:
+    - "identity"
+    - "non-human identity"
+    - "NHI"
+    - "workload identity"
+    - "service account"
+    - "OAuth"
+    - "SPIFFE"
+    - "SPIRE"
+    - "IAM"
+    - "credential"
+    - "secrets management"
+    - "authentication"
+    - "authorization"
+
+  offsec_ai_workloads:
+    - "red team"
+    - "penetration test"
+    - "offensive security"
+    - "exploit"
+    - "agentic"
+    - "AI agent"
+    - "LLM"
+    - "MCP"
+    - "attack surface"
+    - "vulnerability"
+    - "recon"
+    - "C2"
+    - "payload"
+
+# Scoring bonus terms (case-insensitive substring match against title+summary).
+# Applied on top of the base source-tier + keyword-density score in
+# filter_rank.py.
+score_bonus_terms:
+  - "CVE"
+  - "MCP"
+  - "model context protocol"
+  - "agentic"
+  - "zero-day"
+  - "0-day"
