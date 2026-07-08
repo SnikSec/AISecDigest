@@ -57,15 +57,16 @@ jobs:
 
       # Resend's shared sandbox sender (onboarding@resend.dev) needs no
       # domain verification, but only delivers to the address the Resend
-      # account itself was signed up with - which is exactly DIGEST_TO
-      # here, since this digest is only ever sent to its own owner.
+      # account itself was signed up with - which is exactly
+      # DIGEST_TARGET_EMAIL here, since this digest is only ever sent to
+      # its own owner.
       # Requires two repo secrets:
-      #   RESEND_API_KEY - from the Resend dashboard
-      #   DIGEST_TO      - the email address you signed up to Resend with
+      #   RESEND_API_KEY      - from the Resend dashboard
+      #   DIGEST_TARGET_EMAIL - the email address you signed up to Resend with
       - name: Email digest via Resend
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          DIGEST_TO: ${{ secrets.DIGEST_TARGET_EMAIL }}
           DIGEST_DATE: ${{ steps.date.outputs.value }}
         run: |
           pip install markdown
