@@ -62,5 +62,81 @@
   {
     "url": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
     "seen_at": "2026-07-08T21:31:52.194018+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.07461",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-52vm-mxx8-f227",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.06963",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.07433",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://trustedsec.com/blog/vulnify-giving-your-agents-a-cve-brain",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.06595",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.07474",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.07696",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.06815",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.07109",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.04724",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.06643",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-382c-vx95-w3p5",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2601.16529",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2301.12680",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
+    "seen_at": "2026-07-09T14:30:02.266304+00:00"
   }
 ]
