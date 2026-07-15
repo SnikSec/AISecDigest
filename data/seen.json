@@ -362,5 +362,89 @@
   {
     "url": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
     "seen_at": "2026-07-14T13:06:59.380140+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.21477",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.11198",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.12316",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.12058",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.11098",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.12463",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.10834",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.28583",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-x9vc-9ffq-p3gj",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-2cf7-hpwf-47h9",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-j6r7-6fhx-77wx",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.12428",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.12624",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.12340",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.12507",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://isc.sans.edu/diary/rss/33154",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://agnost.ai",
+    "seen_at": "2026-07-15T13:11:15.595547+00:00"
   }
 ]
