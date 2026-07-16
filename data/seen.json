@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2607.05743",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.05744",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.05958",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.05975",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.15097",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.05001",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.05750",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2601.10758",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-q855-8rh5-jfgq",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.05474",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2510.02964",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2510.27140",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.06009",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-    "seen_at": "2026-07-08T21:31:52.194018+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.07461",
     "seen_at": "2026-07-09T14:30:02.266304+00:00"
   },
@@ -446,5 +382,89 @@
   {
     "url": "https://agnost.ai",
     "seen_at": "2026-07-15T13:11:15.595547+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.14006",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.13081",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.13718",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.06223",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.11707",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-3pvh-63gf-j9mw",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-6f5r-5672-72j7",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.13453",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.13411",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.13987",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.13087",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.13439",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.13722",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.13965",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
+  },
+  {
+    "url": "https://thinkingmachines.ai/inkling",
+    "seen_at": "2026-07-16T13:19:31.010397+00:00"
   }
 ]
