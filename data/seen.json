@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2607.08495",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.08288",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.03378",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.08681",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.08180",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.02615",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.07903",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2502.12497",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.07739",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.05969",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.07774",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.08395",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://isc.sans.edu/diary/rss/33144",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://microsoft.github.io/flint-chart",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://www.alecscollon.com/blog/llm-burnout",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
-    "url": "https://news.ycombinator.com/item",
-    "seen_at": "2026-07-10T13:58:29.470950+00:00"
-  },
-  {
     "url": "https://github.com/advisories/ghsa-489g-7rxv-6c8q",
     "seen_at": "2026-07-11T12:54:43.405072+00:00"
   },
@@ -454,5 +390,61 @@
   {
     "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
     "seen_at": "2026-07-17T13:04:24.915413+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-f7wf-v2vw-mpcx",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.14921",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-2v2f-mvfg-ph56",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-45gf-fjxp-cjpq",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.30219",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.14641",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.14101",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.14113",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.14607",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-6c4r-fmh3-7rh8",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier",
+    "seen_at": "2026-07-18T12:51:34.328620+00:00"
   }
 ]
