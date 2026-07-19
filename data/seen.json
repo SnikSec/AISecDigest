@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://github.com/advisories/ghsa-489g-7rxv-6c8q",
-    "seen_at": "2026-07-11T12:54:43.405072+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-g5r6-gv6m-f5jv",
-    "seen_at": "2026-07-11T12:54:43.405072+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-wm45-qh3g-v83f",
-    "seen_at": "2026-07-11T12:54:43.405072+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
-    "seen_at": "2026-07-11T12:54:43.405072+00:00"
-  },
-  {
-    "url": "https://www.semperis.com/blog/setting-agent-identity-permissions",
-    "seen_at": "2026-07-11T12:54:43.405072+00:00"
-  },
-  {
-    "url": "https://www.semperis.com/blog/entra-agent-identities-design-deep-dive",
-    "seen_at": "2026-07-11T12:54:43.405072+00:00"
-  },
-  {
     "url": "https://www.iroh.computer/blog/mesh-llm",
     "seen_at": "2026-07-12T12:55:20.656513+00:00"
   },
