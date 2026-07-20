@@ -1,13 +1,5 @@
 [
   {
-    "url": "https://www.iroh.computer/blog/mesh-llm",
-    "seen_at": "2026-07-12T12:55:20.656513+00:00"
-  },
-  {
-    "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-    "seen_at": "2026-07-12T12:55:20.656513+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.09493",
     "seen_at": "2026-07-13T14:04:21.850791+00:00"
   },
@@ -422,5 +414,65 @@
   {
     "url": "https://blog.lyc8503.net/en/post/llm-classifier",
     "seen_at": "2026-07-18T12:51:34.328620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15593",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15673",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.16175",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15596",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.16057",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.01138",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15657",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.10029",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.02240",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15977",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15970",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.16010",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+    "seen_at": "2026-07-20T13:48:48.167081+00:00"
   }
 ]
