@@ -1,133 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2607.09493",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.09179",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.09076",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.20064",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.13428",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://isc.sans.edu/diary/rss/33150",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.09653",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.04261",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.09176",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2402.07518",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.13922",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2507.18313",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://www.semperis.com/blog/prevent-entra-agent-identity-disaster",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-    "seen_at": "2026-07-13T14:04:21.850791+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.11504",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.11086",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.10123",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.10569",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.11288",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.01143",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.11698",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.00137",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.10269",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.10490",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.10221",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.10103",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://trustedsec.com/blog/pandoras-container-part-1-unpacking-azure-container-security",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-    "seen_at": "2026-07-14T13:06:59.380140+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2604.21477",
     "seen_at": "2026-07-15T13:11:15.595547+00:00"
   },
@@ -474,5 +346,77 @@
   {
     "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
     "seen_at": "2026-07-20T13:48:48.167081+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.16249",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.19021",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.16617",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.15097",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2509.14335",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.17535",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.22590",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.16204",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.17015",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.17550",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.16199",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.17105",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+    "seen_at": "2026-07-21T13:15:56.919612+00:00"
   }
 ]
