@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2607.14006",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.13081",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.13718",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.06223",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.11707",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-3pvh-63gf-j9mw",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-6f5r-5672-72j7",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.13453",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.13411",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.13987",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.13087",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.13439",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.13722",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.13965",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
-    "url": "https://thinkingmachines.ai/inkling",
-    "seen_at": "2026-07-16T13:19:31.010397+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.14158",
     "seen_at": "2026-07-17T13:04:24.915413+00:00"
   },
@@ -406,5 +322,65 @@
   {
     "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
     "seen_at": "2026-07-22T13:21:07.962585+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.19432",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.19433",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-h44j-f5r5-ph73",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-vhf8-cg2h-cg3p",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2512.16300",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.19829",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-7488-6r32-c95q",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-q5xf-xhwf-cwqf",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.19430",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.19894",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.19595",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.19351",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.19545",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2506.06488",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
+  },
+  {
+    "url": "https://www.sentinelone.com/labs/frontier-models-tackle-autonomous-long-horizon-malware-analysis",
+    "seen_at": "2026-07-23T13:23:47.599599+00:00"
   }
 ]
