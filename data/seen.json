@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://github.com/advisories/ghsa-f7wf-v2vw-mpcx",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.14921",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-2v2f-mvfg-ph56",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-45gf-fjxp-cjpq",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.30219",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.14641",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.14101",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.14113",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.14607",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-6c4r-fmh3-7rh8",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
-    "url": "https://blog.lyc8503.net/en/post/llm-classifier",
-    "seen_at": "2026-07-18T12:51:34.328620+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.15593",
     "seen_at": "2026-07-20T13:48:48.167081+00:00"
   },
@@ -398,5 +342,13 @@
   {
     "url": "https://sliplane.io/blog/hetzner-inference",
     "seen_at": "2026-07-24T13:17:05.564918+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-29w2-fq35-v728",
+    "seen_at": "2026-07-25T13:00:13.251943+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-8q49-2h5h-434x",
+    "seen_at": "2026-07-25T13:00:13.251943+00:00"
   }
 ]
