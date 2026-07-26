@@ -350,5 +350,13 @@
   {
     "url": "https://github.com/advisories/ghsa-8q49-2h5h-434x",
     "seen_at": "2026-07-25T13:00:13.251943+00:00"
+  },
+  {
+    "url": "https://www.debian.org/vote/2026/vote_002",
+    "seen_at": "2026-07-26T12:57:31.569445+00:00"
+  },
+  {
+    "url": "https://github.com/slvdev/esp32-ai",
+    "seen_at": "2026-07-26T12:57:31.569445+00:00"
   }
 ]
