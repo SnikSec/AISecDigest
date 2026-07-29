@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2603.07473",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.18575",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.18847",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.18310",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.18242",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.18366",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.19267",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.18684",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.18869",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.06409",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.17467",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.06596",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://www.semperis.com/blog/minimum-viable-company-enabling-visibility-control-resilience",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-    "seen_at": "2026-07-22T13:21:07.962585+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.19432",
     "seen_at": "2026-07-23T13:23:47.599599+00:00"
   },
@@ -322,5 +250,65 @@
   {
     "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
     "seen_at": "2026-07-28T13:29:24.220802+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.25297",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.25398",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.24964",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.24866",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.10834",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.25936",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.25619",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.25522",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.24859",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.25572",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.25152",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.25364",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+    "seen_at": "2026-07-29T13:45:07.167890+00:00"
   }
 ]
