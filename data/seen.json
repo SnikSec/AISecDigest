@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2607.19432",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.19433",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-h44j-f5r5-ph73",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-vhf8-cg2h-cg3p",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2512.16300",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.19829",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-7488-6r32-c95q",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-q5xf-xhwf-cwqf",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.19430",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.19894",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.19595",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.19351",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.19545",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2506.06488",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
-    "url": "https://www.sentinelone.com/labs/frontier-models-tackle-autonomous-long-horizon-malware-analysis",
-    "seen_at": "2026-07-23T13:23:47.599599+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.20531",
     "seen_at": "2026-07-24T13:17:05.564918+00:00"
   },
@@ -310,5 +250,53 @@
   {
     "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
     "seen_at": "2026-07-29T13:45:07.167890+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.27030",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.26998",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.26069",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.26656",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.26791",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-pc2w-4mq8-32qw",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.26634",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.25379",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.24893",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.25579",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+    "seen_at": "2026-07-30T13:26:19.794663+00:00"
   }
 ]
