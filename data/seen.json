@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2607.20531",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.21412",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.20478",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.20759",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.13026",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.20916",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.21345",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.20579",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.20713",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.20860",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://isc.sans.edu/diary/rss/33180",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://github.com/onecli/onecli",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://github.com/palmier-io/palmier-pro",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
-    "url": "https://sliplane.io/blog/hetzner-inference",
-    "seen_at": "2026-07-24T13:17:05.564918+00:00"
-  },
-  {
     "url": "https://github.com/advisories/ghsa-29w2-fq35-v728",
     "seen_at": "2026-07-25T13:00:13.251943+00:00"
   },
@@ -298,5 +218,65 @@
   {
     "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
     "seen_at": "2026-07-30T13:26:19.794663+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.04425",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.01153",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.24162",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.27604",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.28165",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2512.14751",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.02092",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.27373",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.27528",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.27081",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.27080",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://www.semperis.com/blog/checklist-prepare-identity-for-agentic-ai",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.26120",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+    "seen_at": "2026-07-31T13:39:10.283713+00:00"
   }
 ]
