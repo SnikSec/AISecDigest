@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2607.21835",
-    "seen_at": "2026-07-27T14:10:43.582592+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.21824",
-    "seen_at": "2026-07-27T14:10:43.582592+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.22076",
-    "seen_at": "2026-07-27T14:10:43.582592+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.22184",
-    "seen_at": "2026-07-27T14:10:43.582592+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.21983",
-    "seen_at": "2026-07-27T14:10:43.582592+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.21897",
-    "seen_at": "2026-07-27T14:10:43.582592+00:00"
-  },
-  {
-    "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-    "seen_at": "2026-07-27T14:10:43.582592+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.24663",
     "seen_at": "2026-07-28T13:29:24.220802+00:00"
   },
@@ -282,5 +254,69 @@
   {
     "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
     "seen_at": "2026-08-01T12:55:56.624737+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.28641",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29422",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29405",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.16057",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.30219",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.18622",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.03919",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2512.22179",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.27886",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.28884",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29604",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.07774",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://sprocket-demo.spikonado.com",
+    "seen_at": "2026-08-03T14:15:17.350595+00:00"
   }
 ]
