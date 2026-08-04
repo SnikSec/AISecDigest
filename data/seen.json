@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2607.24663",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.24937",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.24512",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.23933",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.18037",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.22611",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.22885",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.23444",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.24174",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.24177",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.23417",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.23418",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
-    "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-    "seen_at": "2026-07-28T13:29:24.220802+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.25297",
     "seen_at": "2026-07-29T13:45:07.167890+00:00"
   },
@@ -318,5 +250,69 @@
   {
     "url": "https://sprocket-demo.spikonado.com",
     "seen_at": "2026-08-03T14:15:17.350595+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.00150",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.00997",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.00718",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.01558",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2512.06716",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.00104",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29254",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.28959",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29167",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.05150",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.28665",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.28955",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://projectdiscovery.io/blog/watching-agents-work-a-behavioral-audit-of-offensive-security-llm-runs",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+    "seen_at": "2026-08-04T13:46:38.657175+00:00"
   }
 ]
