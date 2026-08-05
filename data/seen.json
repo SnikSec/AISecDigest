@@ -314,5 +314,77 @@
   {
     "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
     "seen_at": "2026-08-04T13:46:38.657175+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-xc48-889x-5qmw",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.03844",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2510.05159",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2601.19138",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.02657",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.03272",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2601.13981",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.03018",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.03009",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.03327",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.03134",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.02693",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.02671",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://blog.cloudflare.com/wallets",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://www.semperis.com/blog/how-five-eyes-ai-warning-changes-cyber-recovery-and-resilience",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29377",
+    "seen_at": "2026-08-05T13:41:51.847984+00:00"
   }
 ]
