@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2606.04425",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.01153",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.24162",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.27604",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.28165",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2512.14751",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2508.02092",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.27373",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.27528",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.27081",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.27080",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://www.semperis.com/blog/checklist-prepare-identity-for-agentic-ai",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.26120",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-    "seen_at": "2026-07-31T13:39:10.283713+00:00"
-  },
-  {
     "url": "https://github.com/advisories/ghsa-xrmj-5g4g-8987",
     "seen_at": "2026-08-01T12:55:56.624737+00:00"
   },
@@ -422,5 +362,21 @@
   {
     "url": "https://www.aleksagordic.com/blog/vllm",
     "seen_at": "2026-08-07T12:39:27.153790+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+    "seen_at": "2026-08-08T12:27:21.571961+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+    "seen_at": "2026-08-08T12:27:21.571961+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+    "seen_at": "2026-08-08T12:27:21.571961+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+    "seen_at": "2026-08-08T12:27:21.571961+00:00"
   }
 ]
