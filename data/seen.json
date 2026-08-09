@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://github.com/advisories/ghsa-xrmj-5g4g-8987",
-    "seen_at": "2026-08-01T12:55:56.624737+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-pqh8-p93p-2rx7",
-    "seen_at": "2026-08-01T12:55:56.624737+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-p7w7-4929-vpj5",
-    "seen_at": "2026-08-01T12:55:56.624737+00:00"
-  },
-  {
-    "url": "https://isc.sans.edu/diary/rss/33206",
-    "seen_at": "2026-08-01T12:55:56.624737+00:00"
-  },
-  {
-    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-    "seen_at": "2026-08-01T12:55:56.624737+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.28641",
     "seen_at": "2026-08-03T14:15:17.350595+00:00"
   },
