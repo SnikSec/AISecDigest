@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2608.00150",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.00997",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.00718",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.01558",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2512.06716",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.00104",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.29254",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.28959",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.29167",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.05150",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.28665",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.28955",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://projectdiscovery.io/blog/watching-agents-work-a-behavioral-audit-of-offensive-security-llm-runs",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-    "seen_at": "2026-08-04T13:46:38.657175+00:00"
-  },
-  {
     "url": "https://github.com/advisories/ghsa-xc48-889x-5qmw",
     "seen_at": "2026-08-05T13:41:51.847984+00:00"
   },
@@ -410,5 +346,65 @@
   {
     "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
     "seen_at": "2026-08-11T12:40:44.591251+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.21412",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.10760",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.10530",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.10281",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.22928",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.01039",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.26998",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.10290",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.06772",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.11155",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.09069",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://tencent-hunyuan.github.io/hunyuan3d-worldclaw",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://stolen-thoughts.com",
+    "seen_at": "2026-08-12T12:43:12.565393+00:00"
   }
 ]
