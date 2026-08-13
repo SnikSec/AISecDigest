@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://github.com/advisories/ghsa-xc48-889x-5qmw",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.03844",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2510.05159",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2601.19138",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.02657",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.03272",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2601.13981",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.03018",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.03009",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.03327",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.03134",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.02693",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.02671",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://blog.cloudflare.com/wallets",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://www.semperis.com/blog/how-five-eyes-ai-warning-changes-cyber-recovery-and-resilience",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.29377",
-    "seen_at": "2026-08-05T13:41:51.847984+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2604.00073",
     "seen_at": "2026-08-06T13:40:35.158098+00:00"
   },
@@ -406,5 +334,65 @@
   {
     "url": "https://stolen-thoughts.com",
     "seen_at": "2026-08-12T12:43:12.565393+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.21392",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.11469",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.01138",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-49m4-vp58-wgc9",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.11250",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.11624",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12246",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.11348",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12253",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.11878",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://isc.sans.edu/diary/rss/33242",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.11291",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.11436",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12077",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+    "seen_at": "2026-08-13T12:44:10.445093+00:00"
   }
 ]
