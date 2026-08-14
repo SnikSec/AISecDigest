@@ -1,149 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2604.00073",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.04719",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.04457",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.00195",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.23933",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.04018",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.04469",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.04033",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.05108",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.04741",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.04314",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.09290",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://trustedsec.com/blog/the-art-of-hunting-azure-cloud-secrets",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://www.semperis.com/blog/identity-crisis-novel-vulnerabilities-leading-to-kerberos-downgrade-dos-and-full-domain-takeover",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-    "seen_at": "2026-08-06T13:40:35.158098+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.05359",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.05884",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06305",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06130",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.05430",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://github.com/mitre-atlas/atlas-data/releases/tag/v2026.07",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06110",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.22191",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.05659",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.05223",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.05201",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2509.10482",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2506.09443",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://artificialanalysis.ai",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
-    "url": "https://www.aleksagordic.com/blog/vllm",
-    "seen_at": "2026-08-07T12:39:27.153790+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
     "seen_at": "2026-08-08T12:27:21.571961+00:00"
   },
@@ -394,5 +250,57 @@
   {
     "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
     "seen_at": "2026-08-13T12:44:10.445093+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12880",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2505.04997",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13030",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://clawdrey.com/blog/dogwood-adds-session-history-to-cedar-authorization.html",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://www.sentinelone.com/labs/the-model-is-the-malware-what-four-agentic-intrusions-tell-defenders",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12645",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13296",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.23859",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13450",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12346",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12444",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12822",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://knownagents.com/insights",
+    "seen_at": "2026-08-14T12:40:43.747832+00:00"
   }
 ]
