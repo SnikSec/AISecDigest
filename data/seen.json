@@ -302,5 +302,45 @@
   {
     "url": "https://knownagents.com/insights",
     "seen_at": "2026-08-14T12:40:43.747832+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-76pc-mqxp-3rq5",
+    "seen_at": "2026-08-15T12:17:23.651877+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-49mq-fc6q-3h46",
+    "seen_at": "2026-08-15T12:17:23.651877+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12851",
+    "seen_at": "2026-08-15T12:17:23.651877+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13221",
+    "seen_at": "2026-08-15T12:17:23.651877+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13272",
+    "seen_at": "2026-08-15T12:17:23.651877+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12713",
+    "seen_at": "2026-08-15T12:17:23.651877+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12876",
+    "seen_at": "2026-08-15T12:17:23.651877+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13465",
+    "seen_at": "2026-08-15T12:17:23.651877+00:00"
+  },
+  {
+    "url": "https://chenxiachan.github.io/thoughtdag",
+    "seen_at": "2026-08-15T12:17:23.651877+00:00"
+  },
+  {
+    "url": "https://hashagent.pages.dev",
+    "seen_at": "2026-08-15T12:17:23.651877+00:00"
   }
 ]
