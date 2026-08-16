@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-    "seen_at": "2026-08-08T12:27:21.571961+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-    "seen_at": "2026-08-08T12:27:21.571961+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-    "seen_at": "2026-08-08T12:27:21.571961+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-    "seen_at": "2026-08-08T12:27:21.571961+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.06510",
     "seen_at": "2026-08-10T12:43:35.933190+00:00"
   },
@@ -342,5 +326,13 @@
   {
     "url": "https://hashagent.pages.dev",
     "seen_at": "2026-08-15T12:17:23.651877+00:00"
+  },
+  {
+    "url": "https://littlelearner-ll.github.io",
+    "seen_at": "2026-08-16T12:21:05.637917+00:00"
+  },
+  {
+    "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+    "seen_at": "2026-08-16T12:21:05.637917+00:00"
   }
 ]
