@@ -1,57 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2608.06510",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06471",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06641",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.07167",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.00310",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06795",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06469",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06909",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06778",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06830",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.03509",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06651",
-    "seen_at": "2026-08-10T12:43:35.933190+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.07627",
     "seen_at": "2026-08-11T12:40:44.591251+00:00"
   },
@@ -382,5 +330,77 @@
   {
     "url": "https://arxiv.org/abs/2603.11799",
     "seen_at": "2026-08-17T12:21:32.939298+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.14613",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.14680",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2601.23049",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.06510",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.15888",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.14876",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-xhcr-cqfr-m3hv",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-8qf9-62x2-82pp",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.15913",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.16026",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.16032",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.16160",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.16393",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.16508",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://speko.ai",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://www.techradar.com/vehicle-tech/think-flock-is-bad-this-new-tech-is-coming-to-link-license-plates-with-your-phone-and-it-could-be-more-bad-news-for-privacy",
+    "seen_at": "2026-08-18T12:23:10.212445+00:00"
   }
 ]
