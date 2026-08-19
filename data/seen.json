@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2608.07627",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.08118",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.08467",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.08654",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.07808",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.09857",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.09567",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.08027",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.08795",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.25921",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.17062",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.15596",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-    "seen_at": "2026-08-11T12:40:44.591251+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.21412",
     "seen_at": "2026-08-12T12:43:12.565393+00:00"
   },
@@ -402,5 +338,57 @@
   {
     "url": "https://www.techradar.com/vehicle-tech/think-flock-is-bad-this-new-tech-is-coming-to-link-license-plates-with-your-phone-and-it-could-be-more-bad-news-for-privacy",
     "seen_at": "2026-08-18T12:23:10.212445+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.17275",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04457",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.16900",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.17148",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.17220",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.17445",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.17360",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.17556",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.16921",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.08913",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.28147",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+    "seen_at": "2026-08-19T12:23:52.489444+00:00"
   }
 ]
