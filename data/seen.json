@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2607.21412",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.10760",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.10530",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.10281",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.22928",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.01039",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.26998",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.10290",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.06772",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.11155",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.09069",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://tencent-hunyuan.github.io/hunyuan3d-worldclaw",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
-    "url": "https://stolen-thoughts.com",
-    "seen_at": "2026-08-12T12:43:12.565393+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2605.21392",
     "seen_at": "2026-08-13T12:44:10.445093+00:00"
   },
@@ -390,5 +330,73 @@
   {
     "url": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
     "seen_at": "2026-08-19T12:23:52.489444+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.18260",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.18613",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.18740",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.18733",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.18351",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2601.17178",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.06641",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-2xhg-73j7-rrgx",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-rr55-jp92-8wp2",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-j4r7-8ph4-43g3",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-hjwh-xvfw-qrwj",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-wppf-h75h-6pm6",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-q87f-qc2r-2gw4",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.19190",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.17458",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://www.semperis.com/blog/how-to-redefine-cyber-resilience-rethinking-hybrid-identity-protection",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+    "seen_at": "2026-08-20T12:26:01.050160+00:00"
   }
 ]
