@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2605.21392",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.11469",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.01138",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-49m4-vp58-wgc9",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.11250",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.11624",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.12246",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.11348",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.12253",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.11878",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://isc.sans.edu/diary/rss/33242",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.11291",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.11436",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.12077",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-    "seen_at": "2026-08-13T12:44:10.445093+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.12880",
     "seen_at": "2026-08-14T12:40:43.747832+00:00"
   },
@@ -398,5 +338,69 @@
   {
     "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
     "seen_at": "2026-08-20T12:26:01.050160+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.20314",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.10555",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.19218",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.19266",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-cc2g-gq8c-r332",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.19901",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2403.15509",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.19534",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.19857",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.09774",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
+  },
+  {
+    "url": "https://github.com/zachahn/vomit",
+    "seen_at": "2026-08-21T12:25:13.392503+00:00"
   }
 ]
