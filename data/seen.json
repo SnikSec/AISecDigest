@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://littlelearner-ll.github.io",
-    "seen_at": "2026-08-16T12:21:05.637917+00:00"
-  },
-  {
-    "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-    "seen_at": "2026-08-16T12:21:05.637917+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.14074",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.13662",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.13987",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.13928",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.14533",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.14452",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.13568",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.13920",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.13574",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2511.19009",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.09075",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.11799",
-    "seen_at": "2026-08-17T12:21:32.939298+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.14613",
     "seen_at": "2026-08-18T12:23:10.212445+00:00"
   },
@@ -330,5 +274,65 @@
   {
     "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
     "seen_at": "2026-08-23T12:18:37.630443+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.20397",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.20481",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.20390",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.21049",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.21101",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.27204",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.20940",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.20675",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.20678",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.20732",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.21126",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2510.06607",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+    "seen_at": "2026-08-24T12:26:54.949173+00:00"
   }
 ]
