@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2608.14613",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.14680",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2601.23049",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.06510",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.15888",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.14876",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-xhcr-cqfr-m3hv",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-8qf9-62x2-82pp",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.15913",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.16026",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.16032",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.16160",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.16393",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.16508",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://speko.ai",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
-    "url": "https://www.techradar.com/vehicle-tech/think-flock-is-bad-this-new-tech-is-coming-to-link-license-plates-with-your-phone-and-it-could-be-more-bad-news-for-privacy",
-    "seen_at": "2026-08-18T12:23:10.212445+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.17275",
     "seen_at": "2026-08-19T12:23:52.489444+00:00"
   },
@@ -334,5 +262,69 @@
   {
     "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
     "seen_at": "2026-08-24T12:26:54.949173+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.21417",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.22063",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.22167",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.21500",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.10749",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.02657",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.17860",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.00566",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.23181",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.22552",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.21547",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.21929",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.16603",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://github.com/thiagotigaz/ocr-it",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "seen_at": "2026-08-25T12:26:59.026563+00:00"
   }
 ]
