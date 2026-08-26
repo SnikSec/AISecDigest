@@ -1,57 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2608.17275",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.04457",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.16900",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.17148",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.17220",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.17445",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.17360",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.17556",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.16921",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.08913",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.28147",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-    "seen_at": "2026-08-19T12:23:52.489444+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.18260",
     "seen_at": "2026-08-20T12:26:01.050160+00:00"
   },
@@ -326,5 +274,97 @@
   {
     "url": "https://fabiensanglard.net/agent.md/index.html",
     "seen_at": "2026-08-25T12:26:59.026563+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.01532",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.23763",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.23858",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.23992",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-hvfh-5mj3-5f3j",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-w3fx-mc44-mf6j",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.24069",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-vwf3-4xxj-qg6h",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-wj6g-v78p-6fx3",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-m9mq-7m7q-xc6p",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.23740",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-mw6r-2hvm-4rp2",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.23785",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.24454",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.06596",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.22075",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.22218",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.21503",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+    "seen_at": "2026-08-26T12:29:12.055124+00:00"
   }
 ]
