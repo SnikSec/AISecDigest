@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2608.20314",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.10555",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.19218",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.19266",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-cc2g-gq8c-r332",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.19901",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2403.15509",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.19534",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.19857",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.09774",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
-    "url": "https://github.com/zachahn/vomit",
-    "seen_at": "2026-08-21T12:25:13.392503+00:00"
-  },
-  {
     "url": "https://ozbrain.com",
     "seen_at": "2026-08-22T12:18:36.674332+00:00"
   },
@@ -370,5 +306,57 @@
   {
     "url": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
     "seen_at": "2026-08-27T21:25:46.714770+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.26198",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.26199",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.18037",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.26867",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.27439",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.26237",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.27299",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.29239",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.05600",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.27234",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.06110",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.27092",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+    "seen_at": "2026-08-28T21:35:25.281202+00:00"
   }
 ]
