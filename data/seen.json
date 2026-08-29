@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://ozbrain.com",
-    "seen_at": "2026-08-22T12:18:36.674332+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-x2rj-828p-hx9m",
-    "seen_at": "2026-08-22T12:18:36.674332+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-    "seen_at": "2026-08-22T12:18:36.674332+00:00"
-  },
-  {
-    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
-    "seen_at": "2026-08-22T12:18:36.674332+00:00"
-  },
-  {
     "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
     "seen_at": "2026-08-23T12:18:37.630443+00:00"
   },
@@ -358,5 +342,33 @@
   {
     "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
     "seen_at": "2026-08-28T21:35:25.281202+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.26991",
+    "seen_at": "2026-08-29T15:55:47.307953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.27176",
+    "seen_at": "2026-08-29T15:55:47.307953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.07167",
+    "seen_at": "2026-08-29T15:55:47.307953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.26882",
+    "seen_at": "2026-08-29T15:55:47.307953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.27141",
+    "seen_at": "2026-08-29T15:55:47.307953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.26222",
+    "seen_at": "2026-08-29T15:55:47.307953+00:00"
+  },
+  {
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+    "seen_at": "2026-08-29T15:55:47.307953+00:00"
   }
 ]
