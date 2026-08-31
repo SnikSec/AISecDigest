@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2608.20397",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.20481",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.20390",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.21049",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.21101",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.27204",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.20940",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.20675",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.20678",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.20732",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.21126",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2510.06607",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-    "seen_at": "2026-08-24T12:26:54.949173+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.21417",
     "seen_at": "2026-08-25T12:26:59.026563+00:00"
   },
@@ -366,5 +306,41 @@
   {
     "url": "https://pwning.systems/posts/llm-memory-program-analysis",
     "seen_at": "2026-08-29T15:55:47.307953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.18414",
+    "seen_at": "2026-08-31T18:24:40.341099+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.00422",
+    "seen_at": "2026-08-31T18:24:40.341099+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.17092",
+    "seen_at": "2026-08-31T18:24:40.341099+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.27504",
+    "seen_at": "2026-08-31T18:24:40.341099+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.27990",
+    "seen_at": "2026-08-31T18:24:40.341099+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.28400",
+    "seen_at": "2026-08-31T18:24:40.341099+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+    "seen_at": "2026-08-31T18:24:40.341099+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+    "seen_at": "2026-08-31T18:24:40.341099+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+    "seen_at": "2026-08-31T18:24:40.341099+00:00"
   }
 ]
