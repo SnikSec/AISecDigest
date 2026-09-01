@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2608.21417",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.22063",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.22167",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.21500",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.10749",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.02657",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.17860",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.00566",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.23181",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.22552",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.21547",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.21929",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.16603",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://github.com/thiagotigaz/ocr-it",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
-    "url": "https://fabiensanglard.net/agent.md/index.html",
-    "seen_at": "2026-08-25T12:26:59.026563+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2604.01532",
     "seen_at": "2026-08-26T12:29:12.055124+00:00"
   },
@@ -342,5 +278,69 @@
   {
     "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
     "seen_at": "2026-08-31T18:24:40.341099+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.28790",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.20531",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.22341",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.20994",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.28794",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.28944",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.28597",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.30083",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.30387",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.30441",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.30112",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.30519",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://github.com/mitre-atlas/atlas-data/releases/tag/v2026.08",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://isc.sans.edu/diary/rss/33298",
+    "seen_at": "2026-09-01T15:45:32.834153+00:00"
   }
 ]
