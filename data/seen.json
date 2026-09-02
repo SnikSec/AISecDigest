@@ -1,97 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2604.01532",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.23763",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.23858",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.23992",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-hvfh-5mj3-5f3j",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-w3fx-mc44-mf6j",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.24069",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-vwf3-4xxj-qg6h",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-wj6g-v78p-6fx3",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-m9mq-7m7q-xc6p",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.23740",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-mw6r-2hvm-4rp2",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.23785",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.24454",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.06596",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.22075",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.22218",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.21503",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-    "seen_at": "2026-08-26T12:29:12.055124+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2511.08462",
     "seen_at": "2026-08-27T21:25:46.714770+00:00"
   },
@@ -342,5 +250,69 @@
   {
     "url": "https://isc.sans.edu/diary/rss/33298",
     "seen_at": "2026-09-01T15:45:32.834153+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.00267",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.00749",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.00052",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.01187",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.01138",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.00604",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.23181",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-83x6-42hr-jc76",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.00015",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.00464",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.30362",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.01023",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.01185",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
+  },
+  {
+    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
+    "seen_at": "2026-09-02T15:35:23.354659+00:00"
   }
 ]
