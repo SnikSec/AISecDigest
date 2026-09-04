@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2511.08462",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.24957",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.24625",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.25667",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.23848",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.24076",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.23979",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.24804",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.10068",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.25776",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.25817",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.23959",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
-    "seen_at": "2026-08-27T21:25:46.714770+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.26198",
     "seen_at": "2026-08-28T21:35:25.281202+00:00"
   },
@@ -378,5 +306,57 @@
   {
     "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
     "seen_at": "2026-09-03T15:27:34.600900+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.17125",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.03860",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.02964",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.04058",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.04135",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2601.00477",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.03884",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.00935",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.03693",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.05274",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.27531",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.03659",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+    "seen_at": "2026-09-04T15:24:36.334345+00:00"
   }
 ]
