@@ -1,57 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2608.26198",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.26199",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.18037",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.26867",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.27439",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.26237",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.27299",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.29239",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2508.05600",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.27234",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.06110",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.27092",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-    "seen_at": "2026-08-28T21:35:25.281202+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.26991",
     "seen_at": "2026-08-29T15:55:47.307953+00:00"
   },
@@ -358,5 +306,21 @@
   {
     "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
     "seen_at": "2026-09-04T15:24:36.334345+00:00"
+  },
+  {
+    "url": "https://isc.sans.edu/diary/rss/33312",
+    "seen_at": "2026-09-05T14:12:13.516134+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+    "seen_at": "2026-09-05T14:12:13.516134+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+    "seen_at": "2026-09-05T14:12:13.516134+00:00"
+  },
+  {
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+    "seen_at": "2026-09-05T14:12:13.516134+00:00"
   }
 ]
