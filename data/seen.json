@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2605.18414",
-    "seen_at": "2026-08-31T18:24:40.341099+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.00422",
-    "seen_at": "2026-08-31T18:24:40.341099+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.17092",
-    "seen_at": "2026-08-31T18:24:40.341099+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.27504",
-    "seen_at": "2026-08-31T18:24:40.341099+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.27990",
-    "seen_at": "2026-08-31T18:24:40.341099+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.28400",
-    "seen_at": "2026-08-31T18:24:40.341099+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-    "seen_at": "2026-08-31T18:24:40.341099+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-    "seen_at": "2026-08-31T18:24:40.341099+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-    "seen_at": "2026-08-31T18:24:40.341099+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.28790",
     "seen_at": "2026-09-01T15:45:32.834153+00:00"
   },
@@ -338,5 +302,13 @@
   {
     "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
     "seen_at": "2026-09-07T16:50:10.239303+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+    "seen_at": "2026-09-08T15:38:19.414364+00:00"
+  },
+  {
+    "url": "https://github.com/tauricresearch/tradingagents",
+    "seen_at": "2026-09-08T15:38:19.414364+00:00"
   }
 ]
