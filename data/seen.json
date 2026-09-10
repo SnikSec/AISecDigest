@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.00267",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.00749",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.00052",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.01187",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.01138",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.00604",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.23181",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-83x6-42hr-jc76",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.00015",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.00464",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.30362",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.01023",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.01185",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
-    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
-    "seen_at": "2026-09-02T15:35:23.354659+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.01693",
     "seen_at": "2026-09-03T15:27:34.600900+00:00"
   },
@@ -266,5 +202,77 @@
   {
     "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
     "seen_at": "2026-09-09T15:32:06.371020+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.06835",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.07713",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.06674",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.27439",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.09404",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.05837",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.08418",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.09551",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10105",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.09798",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10117",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-wcjj-9m6g-2fr2",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.09553",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://hugovergnes.github.io/little-lm-3-8b",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent",
+    "seen_at": "2026-09-10T15:27:31.070913+00:00"
   }
 ]
