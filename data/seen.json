@@ -1,121 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.01693",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.02690",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.02459",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.01677",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.25876",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.02564",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.01663",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.02647",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-78x9-fhhx-v2g6",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-6f9w-9hf2-5rg3",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.02191",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.12406",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.01671",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.02131",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-    "seen_at": "2026-09-03T15:27:34.600900+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.17125",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.03860",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.02964",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.04058",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.04135",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2601.00477",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.03884",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2508.00935",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.03693",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.05274",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.27531",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.03659",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-    "seen_at": "2026-09-04T15:24:36.334345+00:00"
-  },
-  {
     "url": "https://isc.sans.edu/diary/rss/33312",
     "seen_at": "2026-09-05T14:12:13.516134+00:00"
   },
@@ -274,5 +158,65 @@
   {
     "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent",
     "seen_at": "2026-09-10T15:27:31.070913+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10854",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10871",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10762",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.09647",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.11852",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.08005",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10627",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10707",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.09875",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://isc.sans.edu/diary/rss/33332",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10036",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.09776",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.09853",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+    "seen_at": "2026-09-11T15:30:09.170340+00:00"
   }
 ]
