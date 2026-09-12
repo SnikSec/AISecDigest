@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://isc.sans.edu/diary/rss/33312",
-    "seen_at": "2026-09-05T14:12:13.516134+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-    "seen_at": "2026-09-05T14:12:13.516134+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-    "seen_at": "2026-09-05T14:12:13.516134+00:00"
-  },
-  {
-    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-    "seen_at": "2026-09-05T14:12:13.516134+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.04894",
     "seen_at": "2026-09-07T16:50:10.239303+00:00"
   },
@@ -218,5 +202,45 @@
   {
     "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
     "seen_at": "2026-09-11T15:30:09.170340+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.15976",
+    "seen_at": "2026-09-12T14:37:46.411052+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10962",
+    "seen_at": "2026-09-12T14:37:46.411052+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-65h7-9wrw-629c",
+    "seen_at": "2026-09-12T14:37:46.411052+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-rqfv-2mw9-78g2",
+    "seen_at": "2026-09-12T14:37:46.411052+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.11286",
+    "seen_at": "2026-09-12T14:37:46.411052+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.11390",
+    "seen_at": "2026-09-12T14:37:46.411052+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2509.07677",
+    "seen_at": "2026-09-12T14:37:46.411052+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.11294",
+    "seen_at": "2026-09-12T14:37:46.411052+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+    "seen_at": "2026-09-12T14:37:46.411052+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+    "seen_at": "2026-09-12T14:37:46.411052+00:00"
   }
 ]
