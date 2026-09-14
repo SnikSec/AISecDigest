@@ -1,49 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.04894",
-    "seen_at": "2026-09-07T16:50:10.239303+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.17398",
-    "seen_at": "2026-09-07T16:50:10.239303+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.04535",
-    "seen_at": "2026-09-07T16:50:10.239303+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.04495",
-    "seen_at": "2026-09-07T16:50:10.239303+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.05370",
-    "seen_at": "2026-09-07T16:50:10.239303+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2412.11194",
-    "seen_at": "2026-09-07T16:50:10.239303+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.09055",
-    "seen_at": "2026-09-07T16:50:10.239303+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.29354",
-    "seen_at": "2026-09-07T16:50:10.239303+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.04626",
-    "seen_at": "2026-09-07T16:50:10.239303+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.04382",
-    "seen_at": "2026-09-07T16:50:10.239303+00:00"
-  },
-  {
-    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
-    "seen_at": "2026-09-07T16:50:10.239303+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
     "seen_at": "2026-09-08T15:38:19.414364+00:00"
   },
@@ -242,5 +198,45 @@
   {
     "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
     "seen_at": "2026-09-12T14:37:46.411052+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.12839",
+    "seen_at": "2026-09-14T17:13:28.420100+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.12144",
+    "seen_at": "2026-09-14T17:13:28.420100+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.12841",
+    "seen_at": "2026-09-14T17:13:28.420100+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.12448",
+    "seen_at": "2026-09-14T17:13:28.420100+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.12305",
+    "seen_at": "2026-09-14T17:13:28.420100+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.16382",
+    "seen_at": "2026-09-14T17:13:28.420100+00:00"
+  },
+  {
+    "url": "https://agentsdock.net",
+    "seen_at": "2026-09-14T17:13:28.420100+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+    "seen_at": "2026-09-14T17:13:28.420100+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+    "seen_at": "2026-09-14T17:13:28.420100+00:00"
+  },
+  {
+    "url": "https://github.com/anuj0456/openarch",
+    "seen_at": "2026-09-14T17:13:28.420100+00:00"
   }
 ]
