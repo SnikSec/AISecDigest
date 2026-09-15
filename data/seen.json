@@ -1,13 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-    "seen_at": "2026-09-08T15:38:19.414364+00:00"
-  },
-  {
-    "url": "https://github.com/tauricresearch/tradingagents",
-    "seen_at": "2026-09-08T15:38:19.414364+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
     "seen_at": "2026-09-09T15:32:06.371020+00:00"
   },
@@ -238,5 +230,73 @@
   {
     "url": "https://github.com/anuj0456/openarch",
     "seen_at": "2026-09-14T17:13:28.420100+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.13548",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.14744",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.15397",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.14780",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2512.24565",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.14119",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.15906",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.14003",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.14079",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.14631",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.14290",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://github.com/mitre-atlas/atlas-data/releases/tag/v2026.09",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.14723",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://isc.sans.edu/diary/rss/33336",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
+  },
+  {
+    "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+    "seen_at": "2026-09-15T15:53:36.495369+00:00"
   }
 ]
