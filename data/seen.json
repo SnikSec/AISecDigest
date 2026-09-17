@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.06835",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.07713",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.06674",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.27439",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.09404",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.05837",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.08418",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.09551",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.10105",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.09798",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.10117",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-wcjj-9m6g-2fr2",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.09553",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://hugovergnes.github.io/little-lm-3-8b",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
-    "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent",
-    "seen_at": "2026-09-10T15:27:31.070913+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.10854",
     "seen_at": "2026-09-11T15:30:09.170340+00:00"
   },
@@ -350,5 +278,69 @@
   {
     "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
     "seen_at": "2026-09-16T15:44:59.165846+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.18120",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.17984",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.18217",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.19091",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.19100",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.18411",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.18862",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.18357",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.17817",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.18965",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.27141",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.19140",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://trustedsec.com/blog/unpacking-a-lazzzy-donut",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+    "seen_at": "2026-09-17T15:51:40.056899+00:00"
   }
 ]
