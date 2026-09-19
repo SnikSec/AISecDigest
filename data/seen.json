@@ -1,105 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.10854",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.10871",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.10762",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.09647",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.11852",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2508.08005",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.10627",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.10707",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.09875",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://isc.sans.edu/diary/rss/33332",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.10036",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.09776",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.09853",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-    "seen_at": "2026-09-11T15:30:09.170340+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.15976",
-    "seen_at": "2026-09-12T14:37:46.411052+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.10962",
-    "seen_at": "2026-09-12T14:37:46.411052+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-65h7-9wrw-629c",
-    "seen_at": "2026-09-12T14:37:46.411052+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-rqfv-2mw9-78g2",
-    "seen_at": "2026-09-12T14:37:46.411052+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.11286",
-    "seen_at": "2026-09-12T14:37:46.411052+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.11390",
-    "seen_at": "2026-09-12T14:37:46.411052+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2509.07677",
-    "seen_at": "2026-09-12T14:37:46.411052+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.11294",
-    "seen_at": "2026-09-12T14:37:46.411052+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-    "seen_at": "2026-09-12T14:37:46.411052+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-    "seen_at": "2026-09-12T14:37:46.411052+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.12839",
     "seen_at": "2026-09-14T17:13:28.420100+00:00"
   },
@@ -422,5 +322,13 @@
   {
     "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
     "seen_at": "2026-09-18T15:25:19.096919+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+    "seen_at": "2026-09-19T15:02:16.001425+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+    "seen_at": "2026-09-19T15:02:16.001425+00:00"
   }
 ]
