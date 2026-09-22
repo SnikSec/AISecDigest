@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.13548",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.14744",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.15397",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.14780",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2512.24565",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.14119",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.15906",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.14003",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.14079",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.14631",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.14290",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://github.com/mitre-atlas/atlas-data/releases/tag/v2026.09",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.14723",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://isc.sans.edu/diary/rss/33336",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://tintotint.eu/whacky-corner/f-droid_slop",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
-    "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-    "seen_at": "2026-09-15T15:53:36.495369+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.14097",
     "seen_at": "2026-09-16T15:44:59.165846+00:00"
   },
@@ -358,5 +290,61 @@
   {
     "url": "https://pirateface.co",
     "seen_at": "2026-09-21T17:23:45.964935+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.14744",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.11217",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.22573",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.23498",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-798p-78g2-v556",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2507.02699",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.02346",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.17707",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-jjhp-8crj-mppq",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.21713",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.25364",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.26088",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+    "seen_at": "2026-09-22T15:55:52.750922+00:00"
   }
 ]
