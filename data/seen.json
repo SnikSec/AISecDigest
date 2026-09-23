@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2607.14097",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.16635",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.09493",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.05359",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.04535",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-5648-rgj9-v224",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.16051",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.16231",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.16433",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.16213",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.17164",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-vmp7-252j-cwp7",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.17550",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-cv3r-c5h8-f4g5",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-2h44-8472-frjj",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.16336",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-    "seen_at": "2026-09-16T15:44:59.165846+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.18120",
     "seen_at": "2026-09-17T15:51:40.056899+00:00"
   },
@@ -346,5 +274,105 @@
   {
     "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
     "seen_at": "2026-09-22T15:55:52.750922+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.23695",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.05339",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.26761",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-f4p7-qx46-wc5j",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.23925",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-v9m3-wfh8-5646",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.24620",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.12481",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-p6hp-93wp-fh6p",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-h7wj-5v37-59r2",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.22712",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-93xw-j965-9mx3",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-f26r-j276-ggg4",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.25173",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.26115",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.26184",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.26234",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.26555",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://www.assbench.com",
+    "seen_at": "2026-09-23T15:45:43.821560+00:00"
   }
 ]
