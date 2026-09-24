@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.18120",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.17984",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.18217",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.19091",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.19100",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.18411",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.18862",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.18357",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.17817",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.18965",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.27141",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.19140",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://trustedsec.com/blog/unpacking-a-lazzzy-donut",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
-    "seen_at": "2026-09-17T15:51:40.056899+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.19425",
     "seen_at": "2026-09-18T15:25:19.096919+00:00"
   },
@@ -374,5 +310,65 @@
   {
     "url": "https://www.assbench.com",
     "seen_at": "2026-09-23T15:45:43.821560+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.03228",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.28372",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.27856",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.27844",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.27773",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.28216",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.26826",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.27857",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.27950",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.10299",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.27091",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.27996",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://trustedsec.com/blog/whats-new-in-hate-crack-since-2-0",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+    "seen_at": "2026-09-24T16:06:52.525014+00:00"
   }
 ]
