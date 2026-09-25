@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.19425",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.19203",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.19587",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.19705",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.20614",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.06027",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.19722",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.19375",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.20188",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2508.06734",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.20370",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.20532",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://news.ycombinator.com/item",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
-    "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
-    "seen_at": "2026-09-18T15:25:19.096919+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
     "seen_at": "2026-09-19T15:02:16.001425+00:00"
   },
@@ -370,5 +290,65 @@
   {
     "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
     "seen_at": "2026-09-24T16:06:52.525014+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.28585",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.28915",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.29647",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.04756",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.20470",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.06130",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.28564",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.07360",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.28586",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.28996",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.29757",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.29040",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-g28h-2cmm-rj9x",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+    "seen_at": "2026-09-25T16:07:10.428998+00:00"
   }
 ]
