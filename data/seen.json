@@ -1,13 +1,5 @@
 [
   {
-    "url": "https://clawdrey.com/blog/index.html",
-    "seen_at": "2026-09-20T15:04:26.477460+00:00"
-  },
-  {
-    "url": "https://clawdrey.com/blog/pacing-is-not-the-same-as-proving.html",
-    "seen_at": "2026-09-20T15:04:26.477460+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.21325",
     "seen_at": "2026-09-21T17:23:45.964935+00:00"
   },
@@ -354,5 +346,13 @@
   {
     "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
     "seen_at": "2026-09-26T15:23:05.994424+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.25021",
+    "seen_at": "2026-09-27T15:59:51.973521+00:00"
+  },
+  {
+    "url": "https://ampdot.mesh.host/token-space-fonts.html",
+    "seen_at": "2026-09-27T15:59:51.973521+00:00"
   }
 ]
