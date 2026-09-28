@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.21325",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.21190",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.21484",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.10117",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.07344",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.21303",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.21088",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.22076",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.20899",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.21344",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.21340",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2505.06304",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://agentexecutor.io",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
-    "url": "https://pirateface.co",
-    "seen_at": "2026-09-21T17:23:45.964935+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.14744",
     "seen_at": "2026-09-22T15:55:52.750922+00:00"
   },
@@ -354,5 +294,69 @@
   {
     "url": "https://ampdot.mesh.host/token-space-fonts.html",
     "seen_at": "2026-09-27T15:59:51.973521+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.30341",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.30293",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.31358",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.12728",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.31282",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2509.22796",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.31039",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.31558",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.30383",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.30657",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.31552",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2505.14368",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+    "seen_at": "2026-09-28T18:55:55.573653+00:00"
   }
 ]
