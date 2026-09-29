@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.14744",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.11217",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.22573",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.23498",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-798p-78g2-v556",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2507.02699",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.02346",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.17707",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-jjhp-8crj-mppq",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.21713",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.25364",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.26088",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
-    "seen_at": "2026-09-22T15:55:52.750922+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.23695",
     "seen_at": "2026-09-23T15:45:43.821560+00:00"
   },
@@ -358,5 +302,37 @@
   {
     "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
     "seen_at": "2026-09-28T18:55:55.573653+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.30292",
+    "seen_at": "2026-09-29T17:14:32.778991+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.19657",
+    "seen_at": "2026-09-29T17:14:32.778991+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+    "seen_at": "2026-09-29T17:14:32.778991+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.30997",
+    "seen_at": "2026-09-29T17:14:32.778991+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.31318",
+    "seen_at": "2026-09-29T17:14:32.778991+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2511.06701",
+    "seen_at": "2026-09-29T17:14:32.778991+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.26088",
+    "seen_at": "2026-09-29T17:14:32.778991+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+    "seen_at": "2026-09-29T17:14:32.778991+00:00"
   }
 ]
