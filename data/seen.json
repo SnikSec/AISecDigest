@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2605.03228",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.28372",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.27856",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.27844",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.27773",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.28216",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.26826",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.27857",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.27950",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.10299",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.27091",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.27996",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://trustedsec.com/blog/whats-new-in-hate-crack-since-2-0",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-    "seen_at": "2026-09-24T16:06:52.525014+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.28585",
     "seen_at": "2026-09-25T16:07:10.428998+00:00"
   },
@@ -294,5 +234,65 @@
   {
     "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
     "seen_at": "2026-09-30T17:12:59.197503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.12329",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.38266",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.39297",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.38270",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.26998",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.18411",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.39544",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.38822",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.16679",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.38239",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2306.05923",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.38291",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+    "seen_at": "2026-10-01T17:42:24.481622+00:00"
   }
 ]
