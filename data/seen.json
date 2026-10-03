@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://github.com/advisories/ghsa-9gfj-28hw-jchp",
-    "seen_at": "2026-09-26T15:23:05.994424+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-    "seen_at": "2026-09-26T15:23:05.994424+00:00"
-  },
-  {
-    "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-    "seen_at": "2026-09-26T15:23:05.994424+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.25021",
     "seen_at": "2026-09-27T15:59:51.973521+00:00"
   },
@@ -282,5 +270,13 @@
   {
     "url": "https://arxiv.org/abs/2610.00392",
     "seen_at": "2026-10-02T17:02:22.877213+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+    "seen_at": "2026-10-03T15:23:59.292297+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+    "seen_at": "2026-10-03T15:23:59.292297+00:00"
   }
 ]
