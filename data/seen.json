@@ -1,13 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.25021",
-    "seen_at": "2026-09-27T15:59:51.973521+00:00"
-  },
-  {
-    "url": "https://ampdot.mesh.host/token-space-fonts.html",
-    "seen_at": "2026-09-27T15:59:51.973521+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.30341",
     "seen_at": "2026-09-28T18:55:55.573653+00:00"
   },
@@ -278,5 +270,17 @@
   {
     "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
     "seen_at": "2026-10-03T15:23:59.292297+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+    "seen_at": "2026-10-04T16:08:43.188830+00:00"
+  },
+  {
+    "url": "https://tej.as/blog/aleph-alpha-kolibri",
+    "seen_at": "2026-10-04T16:08:43.188830+00:00"
+  },
+  {
+    "url": "https://dwarfstar.sh",
+    "seen_at": "2026-10-04T16:08:43.188830+00:00"
   }
 ]
