@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.30341",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.30293",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.31358",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.12728",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.31282",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2509.22796",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.31039",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.31558",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.30383",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.30657",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.31552",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2505.14368",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-    "seen_at": "2026-09-28T18:55:55.573653+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.30292",
     "seen_at": "2026-09-29T17:14:32.778991+00:00"
   },
@@ -282,5 +218,65 @@
   {
     "url": "https://dwarfstar.sh",
     "seen_at": "2026-10-04T16:08:43.188830+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.03213",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.02432",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.02861",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.03383",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.03434",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.03255",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.10800",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.30848",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.03319",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.02552",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.36117",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.02827",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+    "seen_at": "2026-10-05T20:06:21.896620+00:00"
   }
 ]
