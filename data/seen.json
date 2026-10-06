@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.30292",
-    "seen_at": "2026-09-29T17:14:32.778991+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.19657",
-    "seen_at": "2026-09-29T17:14:32.778991+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-    "seen_at": "2026-09-29T17:14:32.778991+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.30997",
-    "seen_at": "2026-09-29T17:14:32.778991+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.31318",
-    "seen_at": "2026-09-29T17:14:32.778991+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2511.06701",
-    "seen_at": "2026-09-29T17:14:32.778991+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.26088",
-    "seen_at": "2026-09-29T17:14:32.778991+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-    "seen_at": "2026-09-29T17:14:32.778991+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2606.24937",
     "seen_at": "2026-09-30T17:12:59.197503+00:00"
   },
@@ -278,5 +246,21 @@
   {
     "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
     "seen_at": "2026-10-05T20:06:21.896620+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+    "seen_at": "2026-10-06T17:35:12.636932+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-6qxp-vccf-f47h",
+    "seen_at": "2026-10-06T17:35:12.636932+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-935w-9g4m-p28p",
+    "seen_at": "2026-10-06T17:35:12.636932+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-2q76-m6w6-qgc6",
+    "seen_at": "2026-10-06T17:35:12.636932+00:00"
   }
 ]
