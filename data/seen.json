@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2606.24937",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.20144",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2508.14925",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.35909",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.38021",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.35381",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.37468",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.30883",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.36732",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.36817",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.37367",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.37737",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://www.semperis.com/blog/dsp-53-change-how-you-protect-active-directory-service-accounts",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-    "seen_at": "2026-09-30T17:12:59.197503+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2606.12329",
     "seen_at": "2026-10-01T17:42:24.481622+00:00"
   },
@@ -262,5 +202,81 @@
   {
     "url": "https://github.com/advisories/ghsa-2q76-m6w6-qgc6",
     "seen_at": "2026-10-06T17:35:12.636932+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.07817",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.06966",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.07298",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.08077",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.07654",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.08430",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.07256",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.07386",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.07510",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.08098",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.03134",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.07639",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://www.semperis.com/blog/how-to-battle-zombie-certificates-persistent-ad-cs-risk",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+    "seen_at": "2026-10-07T18:06:40.392983+00:00"
   }
 ]
