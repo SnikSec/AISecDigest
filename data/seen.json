@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2606.12329",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.38266",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.39297",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.38270",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.26998",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.18411",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.39544",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.38822",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.16679",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.38239",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2306.05923",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.38291",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-    "seen_at": "2026-10-01T17:42:24.481622+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2606.20470",
     "seen_at": "2026-10-02T17:02:22.877213+00:00"
   },
@@ -278,5 +218,77 @@
   {
     "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
     "seen_at": "2026-10-07T18:06:40.392983+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.35909",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.08951",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.09264",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.17707",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.13994",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.06401",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-4hmc-cfm3-w43c",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.08678",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.05647",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-w794-rj3p-xv45",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.07023",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.07657",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.07089",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.07476",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://isc.sans.edu/diary/rss/33410",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://github.com/samsunglabs/littlebit",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "seen_at": "2026-10-08T18:09:43.521503+00:00"
   }
 ]
