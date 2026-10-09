@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2606.20470",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.00151",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.01093",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2512.03420",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.01097",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.00400",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.01364",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.11469",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.01263",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.01788",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.00125",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.00392",
-    "seen_at": "2026-10-02T17:02:22.877213+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
     "seen_at": "2026-10-03T15:23:59.292297+00:00"
   },
@@ -290,5 +242,65 @@
   {
     "url": "https://github.com/pingdotgg/ts-rust",
     "seen_at": "2026-10-08T18:09:43.521503+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.10659",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.10608",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.10657",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.11458",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29405",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.39544",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.26294",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-hc5v-gxvj-58wh",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.12415",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.10909",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.11556",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.12137",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.22698",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+    "seen_at": "2026-10-09T17:42:49.774953+00:00"
   }
 ]
