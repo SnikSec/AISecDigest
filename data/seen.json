@@ -1,13 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-    "seen_at": "2026-10-03T15:23:59.292297+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-    "seen_at": "2026-10-03T15:23:59.292297+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
     "seen_at": "2026-10-04T16:08:43.188830+00:00"
   },
@@ -302,5 +294,17 @@
   {
     "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
     "seen_at": "2026-10-09T17:42:49.774953+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+    "seen_at": "2026-10-10T16:34:27.545816+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+    "seen_at": "2026-10-10T16:34:27.545816+00:00"
+  },
+  {
+    "url": "https://github.com/rociiu/talorys",
+    "seen_at": "2026-10-10T16:34:27.545816+00:00"
   }
 ]
