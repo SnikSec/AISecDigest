@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-    "seen_at": "2026-10-04T16:08:43.188830+00:00"
-  },
-  {
-    "url": "https://tej.as/blog/aleph-alpha-kolibri",
-    "seen_at": "2026-10-04T16:08:43.188830+00:00"
-  },
-  {
-    "url": "https://dwarfstar.sh",
-    "seen_at": "2026-10-04T16:08:43.188830+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.03213",
     "seen_at": "2026-10-05T20:06:21.896620+00:00"
   },
@@ -306,5 +294,13 @@
   {
     "url": "https://github.com/rociiu/talorys",
     "seen_at": "2026-10-10T16:34:27.545816+00:00"
+  },
+  {
+    "url": "http://loki.ws/code/2026/10/10/lid-1-4-0-more-ways-to-work.html",
+    "seen_at": "2026-10-11T16:59:37.261662+00:00"
+  },
+  {
+    "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+    "seen_at": "2026-10-11T16:59:37.261662+00:00"
   }
 ]
