@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.03213",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.02432",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.02861",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.03383",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.03434",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.03255",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.10800",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.30848",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.03319",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.02552",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.36117",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.02827",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-    "seen_at": "2026-10-05T20:06:21.896620+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
     "seen_at": "2026-10-06T17:35:12.636932+00:00"
   },
@@ -302,5 +242,65 @@
   {
     "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
     "seen_at": "2026-10-11T16:59:37.261662+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.05359",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.03678",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.03753",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.13071",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.13623",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.13651",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.13267",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.12644",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.12524",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.13227",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.07427",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.12893",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+    "seen_at": "2026-10-12T20:34:48.995145+00:00"
   }
 ]
