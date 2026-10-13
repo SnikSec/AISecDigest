@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-    "seen_at": "2026-10-06T17:35:12.636932+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-6qxp-vccf-f47h",
-    "seen_at": "2026-10-06T17:35:12.636932+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-935w-9g4m-p28p",
-    "seen_at": "2026-10-06T17:35:12.636932+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-2q76-m6w6-qgc6",
-    "seen_at": "2026-10-06T17:35:12.636932+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.07817",
     "seen_at": "2026-10-07T18:06:40.392983+00:00"
   },
@@ -302,5 +286,41 @@
   {
     "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
     "seen_at": "2026-10-12T20:34:48.995145+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.07418",
+    "seen_at": "2026-10-13T18:38:50.648970+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.13637",
+    "seen_at": "2026-10-13T18:38:50.648970+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2507.19608",
+    "seen_at": "2026-10-13T18:38:50.648970+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.29460",
+    "seen_at": "2026-10-13T18:38:50.648970+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.26550",
+    "seen_at": "2026-10-13T18:38:50.648970+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.10405",
+    "seen_at": "2026-10-13T18:38:50.648970+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+    "seen_at": "2026-10-13T18:38:50.648970+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+    "seen_at": "2026-10-13T18:38:50.648970+00:00"
+  },
+  {
+    "url": "https://twitter.com/karpathy/status/2109361546505966046",
+    "seen_at": "2026-10-13T18:38:50.648970+00:00"
   }
 ]
