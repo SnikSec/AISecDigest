@@ -322,5 +322,21 @@
   {
     "url": "https://twitter.com/karpathy/status/2109361546505966046",
     "seen_at": "2026-10-13T18:38:50.648970+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+    "seen_at": "2026-10-14T16:09:08.160658+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+    "seen_at": "2026-10-14T16:09:08.160658+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+    "seen_at": "2026-10-14T16:09:08.160658+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+    "seen_at": "2026-10-14T16:09:08.160658+00:00"
   }
 ]
