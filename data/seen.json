@@ -1,81 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.07817",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.06966",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.07298",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.08077",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.07654",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.08430",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.07256",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.07386",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.07510",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.08098",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.03134",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.07639",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://www.semperis.com/blog/how-to-battle-zombie-certificates-persistent-ad-cs-risk",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
-    "seen_at": "2026-10-07T18:06:40.392983+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2609.35909",
     "seen_at": "2026-10-08T18:09:43.521503+00:00"
   },
@@ -338,5 +262,73 @@
   {
     "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
     "seen_at": "2026-10-14T16:09:08.160658+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.14956",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.14334",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.16140",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.14228",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.20245",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10871",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.18947",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.16867",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.19005",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.20437",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.02837",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.18948",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://lwn.net/articles/1100449",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes",
+    "seen_at": "2026-10-15T15:56:52.355184+00:00"
   }
 ]
