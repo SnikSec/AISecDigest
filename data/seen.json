@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2609.35909",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.08951",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.09264",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.17707",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.13994",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.06401",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-4hmc-cfm3-w43c",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.08678",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.05647",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-w794-rj3p-xv45",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.07023",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.07657",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.07089",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.07476",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://isc.sans.edu/diary/rss/33410",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://github.com/samsunglabs/littlebit",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
-    "url": "https://github.com/pingdotgg/ts-rust",
-    "seen_at": "2026-10-08T18:09:43.521503+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.10659",
     "seen_at": "2026-10-09T17:42:49.774953+00:00"
   },
@@ -330,5 +258,73 @@
   {
     "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes",
     "seen_at": "2026-10-15T15:56:52.355184+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.21063",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.22301",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.20776",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.20902",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.21463",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.13880",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.12674",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.02255",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.21034",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.21269",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.21547",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.01263",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-84m7-p3x7-pcfv",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://isc.sans.edu/diary/rss/33430",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+    "seen_at": "2026-10-16T15:45:12.939716+00:00"
   }
 ]
