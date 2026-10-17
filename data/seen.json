@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.10659",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.10608",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.10657",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.11458",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.29405",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.39544",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.26294",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-hc5v-gxvj-58wh",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.12415",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.10909",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.11556",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.12137",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.22698",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-    "seen_at": "2026-10-09T17:42:49.774953+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
     "seen_at": "2026-10-10T16:34:27.545816+00:00"
   },
@@ -326,5 +266,9 @@
   {
     "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
     "seen_at": "2026-10-16T15:45:12.939716+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-vqff-r82h-9crc",
+    "seen_at": "2026-10-17T14:37:45.996652+00:00"
   }
 ]
