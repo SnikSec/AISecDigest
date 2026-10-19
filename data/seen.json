@@ -1,13 +1,5 @@
 [
   {
-    "url": "http://loki.ws/code/2026/10/10/lid-1-4-0-more-ways-to-work.html",
-    "seen_at": "2026-10-11T16:59:37.261662+00:00"
-  },
-  {
-    "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
-    "seen_at": "2026-10-11T16:59:37.261662+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.05359",
     "seen_at": "2026-10-12T20:34:48.995145+00:00"
   },
@@ -258,5 +250,65 @@
   {
     "url": "https://github.com/advisories/ghsa-vqff-r82h-9crc",
     "seen_at": "2026-10-17T14:37:45.996652+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.23449",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.22373",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.22828",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.23726",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.16550",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.22959",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.23078",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.22869",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.22688",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.23656",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.23307",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.03295",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+    "seen_at": "2026-10-19T17:56:33.803188+00:00"
   }
 ]
