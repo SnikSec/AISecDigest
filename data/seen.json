@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2608.05359",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.03678",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.03753",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.13071",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.13623",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.13651",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.13267",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.12644",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.12524",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.13227",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.07427",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.12893",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-    "seen_at": "2026-10-12T20:34:48.995145+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2608.07418",
     "seen_at": "2026-10-13T18:38:50.648970+00:00"
   },
@@ -310,5 +250,17 @@
   {
     "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
     "seen_at": "2026-10-19T17:56:33.803188+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+    "seen_at": "2026-10-20T16:01:45.371103+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+    "seen_at": "2026-10-20T16:01:45.371103+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+    "seen_at": "2026-10-20T16:01:45.371103+00:00"
   }
 ]
