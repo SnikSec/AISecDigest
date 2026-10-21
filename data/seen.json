@@ -1,57 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2608.07418",
-    "seen_at": "2026-10-13T18:38:50.648970+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.13637",
-    "seen_at": "2026-10-13T18:38:50.648970+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2507.19608",
-    "seen_at": "2026-10-13T18:38:50.648970+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.29460",
-    "seen_at": "2026-10-13T18:38:50.648970+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.26550",
-    "seen_at": "2026-10-13T18:38:50.648970+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.10405",
-    "seen_at": "2026-10-13T18:38:50.648970+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-    "seen_at": "2026-10-13T18:38:50.648970+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-    "seen_at": "2026-10-13T18:38:50.648970+00:00"
-  },
-  {
-    "url": "https://twitter.com/karpathy/status/2109361546505966046",
-    "seen_at": "2026-10-13T18:38:50.648970+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-    "seen_at": "2026-10-14T16:09:08.160658+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-    "seen_at": "2026-10-14T16:09:08.160658+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-    "seen_at": "2026-10-14T16:09:08.160658+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-    "seen_at": "2026-10-14T16:09:08.160658+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.14956",
     "seen_at": "2026-10-15T15:56:52.355184+00:00"
   },
@@ -262,5 +210,85 @@
   {
     "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
     "seen_at": "2026-10-20T16:01:45.371103+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27234",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27483",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.24806",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.28397",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.25916",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27784",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27383",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27543",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27210",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-jm63-cq47-j5jp",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-46jr-4wx8-v453",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-rvq5-wwqv-78pq",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-22jm-h49p-29qw",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-6prh-2h8m-c8cw",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27675",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.22943",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.25066",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+    "seen_at": "2026-10-21T16:18:21.971323+00:00"
   }
 ]
