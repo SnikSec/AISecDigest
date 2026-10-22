@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.14956",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.14334",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.16140",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.14228",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.20245",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.10871",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.18947",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.16867",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.19005",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.20437",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.02837",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.18948",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://lwn.net/articles/1100449",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
-    "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes",
-    "seen_at": "2026-10-15T15:56:52.355184+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.21063",
     "seen_at": "2026-10-16T15:45:12.939716+00:00"
   },
@@ -290,5 +222,81 @@
   {
     "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
     "seen_at": "2026-10-21T16:18:21.971323+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.28810",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.24264",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-f2ph-cmg5-wxc8",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27574",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27533",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.28430",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.15207",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-r57g-mc79-8hj2",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27135",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27470",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.28966",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.29379",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2505.06335",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.28859",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+    "seen_at": "2026-10-22T16:16:07.609545+00:00"
   }
 ]
