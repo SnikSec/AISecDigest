@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.21063",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22301",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.20776",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.20902",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.21463",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.13880",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.12674",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.02255",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.21034",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.21269",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.21547",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.01263",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-84m7-p3x7-pcfv",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://isc.sans.edu/diary/rss/33430",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-    "seen_at": "2026-10-16T15:45:12.939716+00:00"
-  },
-  {
     "url": "https://github.com/advisories/ghsa-vqff-r82h-9crc",
     "seen_at": "2026-10-17T14:37:45.996652+00:00"
   },
@@ -298,5 +230,61 @@
   {
     "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
     "seen_at": "2026-10-22T16:16:07.609545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.30157",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.30016",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.30202",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.30365",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.30218",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.30229",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.31152",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.28987",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.29308",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.29178",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.29669",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27307",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+    "seen_at": "2026-10-23T16:06:04.031048+00:00"
   }
 ]
