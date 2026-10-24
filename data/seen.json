@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://github.com/advisories/ghsa-vqff-r82h-9crc",
-    "seen_at": "2026-10-17T14:37:45.996652+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.23449",
     "seen_at": "2026-10-19T17:56:33.803188+00:00"
   },
@@ -286,5 +282,17 @@
   {
     "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
     "seen_at": "2026-10-23T16:06:04.031048+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-vqqp-x5qm-5qp4",
+    "seen_at": "2026-10-24T15:02:50.046161+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+    "seen_at": "2026-10-24T15:02:50.046161+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+    "seen_at": "2026-10-24T15:02:50.046161+00:00"
   }
 ]
