@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.23449",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22373",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22828",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.23726",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.16550",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22959",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.23078",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22869",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22688",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.23656",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.23307",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.03295",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-    "seen_at": "2026-10-19T17:56:33.803188+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-    "seen_at": "2026-10-20T16:01:45.371103+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-    "seen_at": "2026-10-20T16:01:45.371103+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-    "seen_at": "2026-10-20T16:01:45.371103+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.27234",
     "seen_at": "2026-10-21T16:18:21.971323+00:00"
   },
@@ -358,5 +286,57 @@
   {
     "url": "https://minimaxir.com/2026/10/cheap-llms",
     "seen_at": "2026-10-26T17:52:45.980545+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33636",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10871",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.34298",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.35829",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.35451",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.34435",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.35835",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.34569",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33198",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33924",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2512.04611",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.00497",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+    "seen_at": "2026-10-27T17:00:35.381318+00:00"
   }
 ]
