@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.27234",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27483",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.24806",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.28397",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.25916",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27784",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27383",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27543",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27210",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-jm63-cq47-j5jp",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-46jr-4wx8-v453",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-rvq5-wwqv-78pq",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-22jm-h49p-29qw",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-6prh-2h8m-c8cw",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27675",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.22943",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.25066",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-    "seen_at": "2026-10-21T16:18:21.971323+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.28810",
     "seen_at": "2026-10-22T16:16:07.609545+00:00"
   },
@@ -338,5 +258,97 @@
   {
     "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
     "seen_at": "2026-10-27T17:00:35.381318+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.36108",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-5h93-6whr-6q8j",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-w4fh-qvv9-3v23",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-rwrf-2pqf-9j8j",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.36626",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.35982",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.36334",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.37657",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.18740",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-f897-62hf-6gxq",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.36298",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.22724",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2412.07672",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2510.14233",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.33437",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.36295",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://www.sentinelone.com/labs/labscon26-replay-keynote-a-sober-analysis-of-ai-impact",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-j7qq-vr8c-xvw3",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://www.brangus.io/survival-llm",
+    "seen_at": "2026-10-28T17:37:16.752986+00:00"
   }
 ]
