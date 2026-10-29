@@ -1,81 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.28810",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.24264",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-f2ph-cmg5-wxc8",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27574",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27533",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.28430",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.15207",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-r57g-mc79-8hj2",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27135",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27470",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.28966",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.29379",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2505.06335",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.28859",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-    "seen_at": "2026-10-22T16:16:07.609545+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.30157",
     "seen_at": "2026-10-23T16:06:04.031048+00:00"
   },
@@ -350,5 +274,61 @@
   {
     "url": "https://www.brangus.io/survival-llm",
     "seen_at": "2026-10-28T17:37:16.752986+00:00"
+  },
+  {
+    "url": "https://github.com/mitre-atlas/atlas-data/releases/tag/v2026.10",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-4mfg-r38w-w8fg",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-7w82-6f9j-v9jp",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-q344-5v34-gm84",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-gq5q-89c7-vhvx",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://martinfowler.com/bliki/llm-voice.html",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://github.com/zigembeddedgroup/microzig/blob/main/code_of_conduct.md",
+    "seen_at": "2026-10-29T17:45:44.137755+00:00"
   }
 ]
