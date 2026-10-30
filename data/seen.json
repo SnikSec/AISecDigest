@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.30157",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.30016",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.30202",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.30365",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.30218",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.30229",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.31152",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.28987",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.29308",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.29178",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.29669",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.27307",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-    "seen_at": "2026-10-23T16:06:04.031048+00:00"
-  },
-  {
     "url": "https://github.com/advisories/ghsa-vqqp-x5qm-5qp4",
     "seen_at": "2026-10-24T15:02:50.046161+00:00"
   },
@@ -330,5 +274,13 @@
   {
     "url": "https://github.com/zigembeddedgroup/microzig/blob/main/code_of_conduct.md",
     "seen_at": "2026-10-29T17:45:44.137755+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+    "seen_at": "2026-10-30T17:26:16.546530+00:00"
+  },
+  {
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "seen_at": "2026-10-30T17:26:16.546530+00:00"
   }
 ]
