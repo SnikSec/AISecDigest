@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://github.com/advisories/ghsa-vqqp-x5qm-5qp4",
-    "seen_at": "2026-10-24T15:02:50.046161+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-    "seen_at": "2026-10-24T15:02:50.046161+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-    "seen_at": "2026-10-24T15:02:50.046161+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
     "seen_at": "2026-10-25T15:14:38.223910+00:00"
   },
@@ -282,5 +270,37 @@
   {
     "url": "https://labs.ycombinator.com/projects/games/index.html",
     "seen_at": "2026-10-30T17:26:16.546530+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.38924",
+    "seen_at": "2026-10-31T16:29:44.172926+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.38867",
+    "seen_at": "2026-10-31T16:29:44.172926+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.39807",
+    "seen_at": "2026-10-31T16:29:44.172926+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.40071",
+    "seen_at": "2026-10-31T16:29:44.172926+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.38617",
+    "seen_at": "2026-10-31T16:29:44.172926+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.39109",
+    "seen_at": "2026-10-31T16:29:44.172926+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+    "seen_at": "2026-10-31T16:29:44.172926+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+    "seen_at": "2026-10-31T16:29:44.172926+00:00"
   }
 ]
