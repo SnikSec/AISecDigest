@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://github.com/mitre-atlas/atlas-data/releases/tag/v2026.10",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-4mfg-r38w-w8fg",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-7w82-6f9j-v9jp",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-q344-5v34-gm84",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-gq5q-89c7-vhvx",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://martinfowler.com/bliki/llm-voice.html",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
-    "url": "https://github.com/zigembeddedgroup/microzig/blob/main/code_of_conduct.md",
-    "seen_at": "2026-10-29T17:45:44.137755+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
     "seen_at": "2026-10-30T17:26:16.546530+00:00"
   },
@@ -198,5 +142,69 @@
   {
     "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
     "seen_at": "2026-11-04T19:02:37.004742+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.06585",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.06734",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.02459",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.18991",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.11817",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.00481",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.10779",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.05781",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.27202",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.06257",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://uncracked.city",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://www.ricursive.com/ripple",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "seen_at": "2026-11-05T19:13:49.532614+00:00"
   }
 ]
