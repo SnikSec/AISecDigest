@@ -1,13 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-    "seen_at": "2026-10-30T17:26:16.546530+00:00"
-  },
-  {
-    "url": "https://labs.ycombinator.com/projects/games/index.html",
-    "seen_at": "2026-10-30T17:26:16.546530+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2610.38924",
     "seen_at": "2026-10-31T16:29:44.172926+00:00"
   },
@@ -206,5 +198,65 @@
   {
     "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
     "seen_at": "2026-11-05T19:13:49.532614+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07689",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2510.02677",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04457",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.06989",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08428",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.25667",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07486",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07611",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08170",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07530",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.08155",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.14431",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+    "seen_at": "2026-11-06T18:40:19.692843+00:00"
   }
 ]
