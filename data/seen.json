@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2610.38924",
-    "seen_at": "2026-10-31T16:29:44.172926+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.38867",
-    "seen_at": "2026-10-31T16:29:44.172926+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.39807",
-    "seen_at": "2026-10-31T16:29:44.172926+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.40071",
-    "seen_at": "2026-10-31T16:29:44.172926+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.38617",
-    "seen_at": "2026-10-31T16:29:44.172926+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.39109",
-    "seen_at": "2026-10-31T16:29:44.172926+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-    "seen_at": "2026-10-31T16:29:44.172926+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-    "seen_at": "2026-10-31T16:29:44.172926+00:00"
-  },
-  {
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
     "seen_at": "2026-11-01T17:23:21.615670+00:00"
   },
@@ -258,5 +226,9 @@
   {
     "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
     "seen_at": "2026-11-06T18:40:19.692843+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+    "seen_at": "2026-11-07T17:09:37.679107+00:00"
   }
 ]
