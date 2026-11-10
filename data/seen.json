@@ -1,49 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2510.12787",
-    "seen_at": "2026-11-03T18:47:53.400997+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.15080",
-    "seen_at": "2026-11-03T18:47:53.400997+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.41479",
-    "seen_at": "2026-11-03T18:47:53.400997+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.07379",
-    "seen_at": "2026-11-03T18:47:53.400997+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.35835",
-    "seen_at": "2026-11-03T18:47:53.400997+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.41397",
-    "seen_at": "2026-11-03T18:47:53.400997+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-    "seen_at": "2026-11-03T18:47:53.400997+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.37741",
-    "seen_at": "2026-11-03T18:47:53.400997+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
-    "seen_at": "2026-11-03T18:47:53.400997+00:00"
-  },
-  {
-    "url": "https://longcat.ai/blog/longcat-2.5",
-    "seen_at": "2026-11-03T18:47:53.400997+00:00"
-  },
-  {
-    "url": "https://twitter.com/ocanasantero/status/2115442964574908902",
-    "seen_at": "2026-11-03T18:47:53.400997+00:00"
-  },
-  {
     "url": "https://www.sentinelone.com/labs/verifiedida-making-llm-driven-reverse-engineering-inspectable-continuable-and-reusable",
     "seen_at": "2026-11-04T19:02:37.004742+00:00"
   },
@@ -206,5 +162,13 @@
   {
     "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
     "seen_at": "2026-11-09T21:44:19.360526+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-9vhv-g5hf-m7m7",
+    "seen_at": "2026-11-10T19:01:46.800934+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+    "seen_at": "2026-11-10T19:01:46.800934+00:00"
   }
 ]
