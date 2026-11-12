@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://www.sentinelone.com/labs/verifiedida-making-llm-driven-reverse-engineering-inspectable-continuable-and-reusable",
-    "seen_at": "2026-11-04T19:02:37.004742+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-    "seen_at": "2026-11-04T19:02:37.004742+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-    "seen_at": "2026-11-04T19:02:37.004742+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-    "seen_at": "2026-11-04T19:02:37.004742+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.06585",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.06734",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.02459",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.18991",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.11817",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.00481",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.10779",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.05781",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2604.27202",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.06257",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://news.ycombinator.com/item",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://uncracked.city",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://www.ricursive.com/ripple",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
-    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-    "seen_at": "2026-11-05T19:13:49.532614+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2611.07689",
     "seen_at": "2026-11-06T18:40:19.692843+00:00"
   },
@@ -246,5 +166,25 @@
   {
     "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
     "seen_at": "2026-11-11T18:59:33.250331+00:00"
+  },
+  {
+    "url": "https://isc.sans.edu/diary/rss/33514",
+    "seen_at": "2026-11-12T19:18:25.562430+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+    "seen_at": "2026-11-12T19:18:25.562430+00:00"
+  },
+  {
+    "url": "https://www.sentinelone.com/labs/labscon26-replay-let-s-get-physical-why-cybersecurity-needs-hardware-based-security-to-survive-ai",
+    "seen_at": "2026-11-12T19:18:25.562430+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+    "seen_at": "2026-11-12T19:18:25.562430+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+    "seen_at": "2026-11-12T19:18:25.562430+00:00"
   }
 ]
