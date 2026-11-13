@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2611.07689",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2510.02677",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.04457",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.06989",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08428",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.25667",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07486",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07611",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08170",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07530",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.08155",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.14431",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-    "seen_at": "2026-11-06T18:40:19.692843+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
     "seen_at": "2026-11-07T17:09:37.679107+00:00"
   },
@@ -186,5 +126,17 @@
   {
     "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
     "seen_at": "2026-11-12T19:18:25.562430+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+    "seen_at": "2026-11-13T18:55:34.751474+00:00"
+  },
+  {
+    "url": "https://brave.com/blog/search-api-agentic-payments",
+    "seen_at": "2026-11-13T18:55:34.751474+00:00"
+  },
+  {
+    "url": "https://myid.ie/business/eu-digital-wallet-tracker",
+    "seen_at": "2026-11-13T18:55:34.751474+00:00"
   }
 ]
