@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://github.com/advisories/ghsa-vvr2-h2jp-838m",
-    "seen_at": "2026-11-09T21:44:19.360526+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-447x-qqwf-m7xq",
-    "seen_at": "2026-11-09T21:44:19.360526+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-h7c4-q426-7jh9",
-    "seen_at": "2026-11-09T21:44:19.360526+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-4p8p-pjpq-2w7h",
-    "seen_at": "2026-11-09T21:44:19.360526+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-    "seen_at": "2026-11-09T21:44:19.360526+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-9vhv-g5hf-m7m7",
-    "seen_at": "2026-11-10T19:01:46.800934+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-    "seen_at": "2026-11-10T19:01:46.800934+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2611.13696",
     "seen_at": "2026-11-11T18:59:33.250331+00:00"
   },
@@ -214,5 +186,17 @@
   {
     "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
     "seen_at": "2026-11-16T21:24:45.956141+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-jq3q-62jc-fqq9",
+    "seen_at": "2026-11-17T20:12:32.740038+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+    "seen_at": "2026-11-17T20:12:32.740038+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+    "seen_at": "2026-11-17T20:12:32.740038+00:00"
   }
 ]
