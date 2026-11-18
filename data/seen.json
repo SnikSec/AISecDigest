@@ -1,81 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2611.13696",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.13960",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.00625",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.13329",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14211",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.14164",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.13041",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2506.15253",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.13684",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2512.08289",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.11399",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.16382",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://isc.sans.edu/diary/rss/33508",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-    "seen_at": "2026-11-11T18:59:33.250331+00:00"
-  },
-  {
     "url": "https://isc.sans.edu/diary/rss/33514",
     "seen_at": "2026-11-12T19:18:25.562430+00:00"
   },
@@ -198,5 +122,65 @@
   {
     "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
     "seen_at": "2026-11-17T20:12:32.740038+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22075",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.14350",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22274",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22179",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.14865",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.16736",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22223",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22278",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.21822",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.21883",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22519",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2511.16209",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://www.sentinelone.com/labs/labscon26-replay-governing-just-in-time-intelligence-ai-dual-use-capabilities-and-the-limits-of-guardrails",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+    "seen_at": "2026-11-18T19:43:58.589216+00:00"
   }
 ]
