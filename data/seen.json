@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://isc.sans.edu/diary/rss/33514",
-    "seen_at": "2026-11-12T19:18:25.562430+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-    "seen_at": "2026-11-12T19:18:25.562430+00:00"
-  },
-  {
-    "url": "https://www.sentinelone.com/labs/labscon26-replay-let-s-get-physical-why-cybersecurity-needs-hardware-based-security-to-survive-ai",
-    "seen_at": "2026-11-12T19:18:25.562430+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-    "seen_at": "2026-11-12T19:18:25.562430+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-    "seen_at": "2026-11-12T19:18:25.562430+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
     "seen_at": "2026-11-13T18:55:34.751474+00:00"
   },
@@ -182,5 +162,65 @@
   {
     "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
     "seen_at": "2026-11-18T19:43:58.589216+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.23844",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.24362",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.23507",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.01919",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-2m9m-6cr5-9x25",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.23304",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.21653",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.22761",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.27951",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12253",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.00519",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.07483",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.24662",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://isc.sans.edu/diary/rss/33534",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
+  },
+  {
+    "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "seen_at": "2026-11-19T19:44:08.448681+00:00"
   }
 ]
