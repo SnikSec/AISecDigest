@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-    "seen_at": "2026-11-15T18:12:51.463420+00:00"
-  },
-  {
     "url": "https://isc.sans.edu/diary/rss/33522",
     "seen_at": "2026-11-16T21:24:45.956141+00:00"
   },
@@ -286,5 +282,13 @@
   {
     "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
     "seen_at": "2026-11-21T18:26:30.375755+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "seen_at": "2026-11-22T18:51:38.496824+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "seen_at": "2026-11-22T18:51:38.496824+00:00"
   }
 ]
