@@ -1,57 +1,5 @@
 [
   {
-    "url": "https://isc.sans.edu/diary/rss/33522",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17381",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17520",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17918",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.18493",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17910",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17818",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.18321",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17577",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.17554",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-    "seen_at": "2026-11-16T21:24:45.956141+00:00"
-  },
-  {
     "url": "https://github.com/advisories/ghsa-jq3q-62jc-fqq9",
     "seen_at": "2026-11-17T20:12:32.740038+00:00"
   },
@@ -290,5 +238,57 @@
   {
     "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
     "seen_at": "2026-11-22T18:51:38.496824+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.10854",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.27095",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.27041",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.27270",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.27567",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.25063",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.15012",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26717",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26998",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26824",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26739",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.27088",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+    "seen_at": "2026-11-23T23:02:15.113149+00:00"
   }
 ]
