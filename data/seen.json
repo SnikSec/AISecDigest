@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://github.com/advisories/ghsa-jq3q-62jc-fqq9",
-    "seen_at": "2026-11-17T20:12:32.740038+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-    "seen_at": "2026-11-17T20:12:32.740038+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-    "seen_at": "2026-11-17T20:12:32.740038+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2611.22075",
     "seen_at": "2026-11-18T19:43:58.589216+00:00"
   },
@@ -290,5 +278,17 @@
   {
     "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
     "seen_at": "2026-11-23T23:02:15.113149+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+    "seen_at": "2026-11-24T21:42:19.074781+00:00"
+  },
+  {
+    "url": "https://github.com/advisories/ghsa-c4hm-4h84-2cf3",
+    "seen_at": "2026-11-24T21:42:19.074781+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+    "seen_at": "2026-11-24T21:42:19.074781+00:00"
   }
 ]
