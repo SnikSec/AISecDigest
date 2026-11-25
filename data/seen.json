@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2611.22075",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.14350",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.22274",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.22179",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.14865",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.16736",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.22223",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.22278",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.21822",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.21883",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.22519",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2511.16209",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://www.sentinelone.com/labs/labscon26-replay-governing-just-in-time-intelligence-ai-dual-use-capabilities-and-the-limits-of-guardrails",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-    "seen_at": "2026-11-18T19:43:58.589216+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2611.23844",
     "seen_at": "2026-11-19T19:44:08.448681+00:00"
   },
@@ -290,5 +230,13 @@
   {
     "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
     "seen_at": "2026-11-24T21:42:19.074781+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+    "seen_at": "2026-11-25T20:49:44.033620+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+    "seen_at": "2026-11-25T20:49:44.033620+00:00"
   }
 ]
