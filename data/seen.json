@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2611.23844",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.24362",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.23507",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.01919",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-2m9m-6cr5-9x25",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.23304",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.21653",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.22761",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2607.27951",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.12253",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.00519",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07483",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.24662",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://isc.sans.edu/diary/rss/33534",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
-    "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-    "seen_at": "2026-11-19T19:44:08.448681+00:00"
-  },
-  {
     "url": "https://arxiv.org/abs/2607.24512",
     "seen_at": "2026-11-20T19:27:00.209112+00:00"
   },
@@ -238,5 +178,57 @@
   {
     "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
     "seen_at": "2026-11-25T20:49:44.033620+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2512.14166",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.31682",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.13960",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.33605",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.38270",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.32046",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.31338",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.31254",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.33010",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.33486",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.00318",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.33243",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+    "seen_at": "2026-11-26T20:41:44.080728+00:00"
   }
 ]
