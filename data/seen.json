@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://arxiv.org/abs/2607.24512",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-qx49-fqc8-xw99",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.28666",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.24788",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.12386",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-9x8x-crjq-g64h",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-mx6p-3fg7-v6pj",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-833v-v58w-294h",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.24184",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.11770",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-24pw-rf5p-mgp7",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://github.com/advisories/ghsa-r7wg-f7r2-8wf7",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.24765",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.24313",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2505.00240",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.27496",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.07222",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2611.24436",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
-    "seen_at": "2026-11-20T19:27:00.209112+00:00"
-  },
-  {
     "url": "https://github.com/advisories/ghsa-4rj4-rcrq-gr92",
     "seen_at": "2026-11-21T18:26:30.375755+00:00"
   },
@@ -230,5 +146,45 @@
   {
     "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
     "seen_at": "2026-11-26T20:41:44.080728+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.33926",
+    "seen_at": "2026-11-27T20:27:43.349597+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.20637",
+    "seen_at": "2026-11-27T20:27:43.349597+00:00"
+  },
+  {
+    "url": "https://github.com/mitre-atlas/atlas-data/releases/tag/v2026.11",
+    "seen_at": "2026-11-27T20:27:43.349597+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.34254",
+    "seen_at": "2026-11-27T20:27:43.349597+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.33238",
+    "seen_at": "2026-11-27T20:27:43.349597+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.34181",
+    "seen_at": "2026-11-27T20:27:43.349597+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2511.18467",
+    "seen_at": "2026-11-27T20:27:43.349597+00:00"
+  },
+  {
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+    "seen_at": "2026-11-27T20:27:43.349597+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+    "seen_at": "2026-11-27T20:27:43.349597+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+    "seen_at": "2026-11-27T20:27:43.349597+00:00"
   }
 ]
