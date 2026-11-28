@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://github.com/advisories/ghsa-4rj4-rcrq-gr92",
-    "seen_at": "2026-11-21T18:26:30.375755+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-    "seen_at": "2026-11-21T18:26:30.375755+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-    "seen_at": "2026-11-21T18:26:30.375755+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-    "seen_at": "2026-11-21T18:26:30.375755+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
     "seen_at": "2026-11-22T18:51:38.496824+00:00"
   },
@@ -186,5 +170,9 @@
   {
     "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
     "seen_at": "2026-11-27T20:27:43.349597+00:00"
+  },
+  {
+    "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+    "seen_at": "2026-11-28T19:17:52.031640+00:00"
   }
 ]
